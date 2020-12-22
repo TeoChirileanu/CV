@@ -1,0 +1,71 @@
+[frame=none]
+[grid=none]
+[%autowidth.stretch]
+|===
+| |
+^.^a|image:https://raw.githubusercontent.com/TheCarpathianCoder/CV/master/assets/teodor.jpg[teodor, 225]
+^.^a|
+===  _Abstract_
+__Software Professional, Clean Coder, and Merciless Refactorer,
+in roughly that order__ +
+
+=== _Contact_
+teodorchirileanu@gmail.com + 
+teodor@thecarpathiancoder.dev +
++33 (0) 7 53 81 19 86 +
+https://linkedin.com/in/teoch +
+Neuilly sur Seine, Île-de-France + 
+|===
+
+[.text-center]
+=== _Summary_
+[.text-justify]
+Tech-Savvy professional with more than *3 years* of experience in industries such as _finance_, _banking_ and _information technology_. Adept *software craftsman* coupled with competences in _designing_, _developing_ and _maintaining_ clean state-of-the-art web, desktop, and mobile software. Passionate about architectural cleanliness, avid *Agile* follower, adherent to the *DevOps* mindset, proficient with the __.NET framework__ and expert in the __C# language__. 
+
+[.text-center]
+=== _Proficiencies_
+[frame=none]
+[grid=none]
+|===
+^|Languages ^|Frameworks ^|Tools ^|Platforms
+
+^a|`C#, Java, Javascript, TypeScript, Python, SQL, Powershell`
+^a|`.NET, Angular, Xamarin, ASP.NET`
+^a|`Git, Azure DevOps, Teamcity, Rider, Intellij, PyCharm`
+^a|`Windows, Windows Server, Linux (CentOs), Cloud (Azure), Mobile (Xamarin)`
+|===
+
+[.text-center]
+=== _Training_
+[frame=none]
+[grid=none]
+|===
+^|Education ^|Certifications
+
+^.^a|*Bachelor* of Computer Science (*2017*)
+
+Bilingual *Baccalaureate* Diploma (*2014*)
+
+^.^| Programming in *C#* - __Top 5%__ (Microsoft) - 2020
+
+Professional *Scrum* Developer (Agile Alliance) - 2019
+
+Certified *SQL* Developer (W3Schools) - 2019
+
+Certified *Tester* Foundation Level (ISTQB) - 2018
+|===
+
+[.text-center]
+=== _Experience_
+[frame=none]
+[grid=none]
+|===
+^|Company ^|Role ^|Duration
+
+^.^|Enedis (Groupe *EDF*) ^.^|*.NET/Java/Python/* Developer ^.^| May 2019 - Present
+^.^|Softeam (Groupe *La Poste*) ^.^|Software Consultant ^.^| May 2019 - Present 
+^.^|**Société Générale** CIB ^.^|*.NET/SQL* Developer ^.^| July 2018 - May 2019
+.2+^.^|Invivoo ^.^|_Senior_ Software Consultant ^.^| February 2018 - May 2019
+^.^|Software Consultant ^.^| July 2018 - February 2019
+^.^|Tricentis ^.^|*.NET/Angular* Developer ^.^| August 2017 - June 2018
+|===

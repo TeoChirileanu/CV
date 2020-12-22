@@ -1,0 +1,22 @@
+[.text-center]
+=== Miscellanea
+
+[.text-center]
+==== _Repos_
+https://github.com/TeoChirileanu ; https://github.com/TheCarpathianCoder ; https://dev.azure.com/TheCarpathianCoder
+
+[.text-center]
+==== _Life_
+Born and organically grown in *Jassy* (Romania) (1995 - 2017) ; 
+Took life to the next level in *Wyoming* (USA) (2016) ; + 
+Reached new heights in *Vienna* (Austria) (2017 - 2018) ; 
+Achieved enlightenment in *Paris* (France) (2018 - present)
+
+[discrete]
+===== __Books Read__
+Clean Code, The Clean Coder, Clean Architecture, Clean Agile, Elements of Reusable Object-Oriented Software, The Art of Unit Testing, Working Efficiently with Legacy Code, C# in Depth, Extreme Programming Explained, Scrum and XP from the Trenches, Daily Design Pattern, Test-Driven Development by Example, Refactoring, The Pragmatic Programmer, The Unicorn Project, The Phoenix Project, Managing Technical Debt, Concurrency in C# Cookbook, The Mythical Man-Month, Domain-Driven Design, Growing Object-Oriented Software, Guided by Tests
+
+[.text-center]
+==== _What do others say about me?_
+"Teodor is a passionate young man, carrying the Carpathian profundity in his heart. His interests are widespread and go beyond his profession. As you say: passion does not spread thin - so great level of energy which he brings to each and every task he works on. Keep on going, Teo!"
+-- Wolfgang Platz, Founder & CTO @ Tricentis

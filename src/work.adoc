@@ -1,0 +1,16 @@
+[.text-center]
+== Detailed Work Experience
+
+include::enedis.adoc[]
+
+include::softeam.adoc[]
+
+<<<<
+
+include::socgen.adoc[]
+
+include::invivoo.adoc[]
+
+<<<<
+
+include::tricentis.adoc[]

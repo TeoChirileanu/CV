@@ -1,0 +1,30 @@
+[.text-center]
+=== _Softeam_
+[frame=none]
+[grid=none]
+|===
+| |
+^.^| 
+_Position_: Software Consultant
+
+_Company_: Docaposte SA (*La Poste* Group)
+
+_Industries_: Finance, Banking, *Energy*
+^.^|
+_Location_: Ivry sur Seine, France
+
+_Employment Type_: Permanent Contract (*CDI*)
+
+_Contract Duration_: *1 year+*
+|===
+
+[frame=none]
+[grid=none]
+|===
+^| Key Achievements
+
+^.^|
+*Actively participated* in the _C# Community_ (e.g. posting on the community feed, presenting technical subjects at meetups)
+
+*Created a blog* for the community (https://teochirileanu.github.io) on which I published _5 technical articles_
+|===

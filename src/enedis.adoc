@@ -1,0 +1,61 @@
+[.text-center]
+=== _Enedis_
+[frame=none]
+[grid=none]
+|===
+^|Summary ^|Technical Environment
+
+^.^|
+_Position_: Backend Developer (*.NET*/Python)
+
+_Company_: Enedis SA (*EDF* Group)
+
+_Industry_: *Electrical Energy* Distribution
+
+_Location_: Le Capitole (Nanterre, France)
+
+_Employment Type_: Consulting Contract
+
+_Contract Duration_: *1 year+*
+
+^.^|
+_Platforms_: *Windows* 10, Windows Server 2012
+
+_Frameworks_: *.NET* 4.5
+
+_Languages_: *C#* 6.0, Python 3.5, DPL
+
+_Libraries_: NUnit, NSubstitute, NFLuent, NCrunch, Resharper, Sqlite, Parsimonious, Mermaid
+
+_Tools_: Git, Visual Studio 2019, *Rider*, PyCharm, PowerFactory 2018, yEd, Notepad++
+|===
+
+[frame=none]
+[grid=none]
+|===
+^|Product Description ^|Project Responsabilities
+
+^.^|
+Enedis _Erable-Talon_ is an in-house, *N-Tier* application framework used to compute various *electrotechnical metrics* of the french electrical grid, such as calculating the cost of new connections for *end users*
+
+^.^|
+My team and I were responsible for *developing* and *maintaining* _Erable-Talon_ on the one hand and providing it as a service to other teams on the other hand, enabling them to create and execute independent *electrotechnical workflows*
+|===
+
+[%header]
+[frame=none]
+[grid=none]
+|===
+^| Key Achievements
+
+^.^|
+Re-worked one-handedly one of the _base tiers_, drastically improving the *performance* and *stability* of the system
+
+Wrote extensive *documentation* concerning _integration/deployment procedures_
+
+*Refactored* a _critical module_ of the system, further simplifying the communication between other modules
+
+Created a *code generation* pipeline that takes functional specifications and translates them into _C#_
+
+*Developed* a _Supervisor_ responsible for *monitoring*, *deploying* and *configuring* modules
+|===

@@ -1,0 +1,62 @@
+[.text-center]
+=== _Tricentis_
+[frame=none]
+[grid=none]
+|===
+^|Summary ^|Technical Environment
+
+^.^|
+_Position_: Full Stack Developer (.NET/*Angular*)
+
+_Company_: Tricentis GmbH
+
+_Industry_: *Banking*
+
+_Location_: Vienna International Center (*Vienna*, Austria)
+
+_Employment Type_: Permanent Contract
+
+_Contract Duration_: 10 months
+
+^.^|
+_Platforms_: Windows 10, *Azure*
+
+_Frameworks_: .NET 4.7, *ASP .NET*, Angular 6
+
+_Languages_: C# 7.2, *TypeScript* 2.9
+
+_Libraries_: NUnit, Moq, Resharper, SQL Server, *MongoDB*
+
+_Tools_: SVN, Git, Visual Studio 2017, Visual Studio Code, *Swagger, Robo 3T*, Service Fabric, Elastic Pool, Load Balancer, Storage, SQL Server, Key Vault, B2C
+|===
+
+[frame=none]
+[grid=none]
+|===
+^|Project Responsabilities
+
+^.^|
+Tricentis *Tosca* is a software solution that is targeted towards *automating*  application *testing*
+|===
+
+[frame=none]
+[grid=none]
+|===
+^|Product Description
+
+^.^|
+My team and I were responsible for maintaining "thick" Tosca (GUI application) on the one hand, and developing "thin" Tosca (*microservice architecture*) on the other hand. Strong believers in *Agile*, my team and I quickly adhered to the *DevOps* mindset by pushing the adoption of tools such as Git and VSTS (Visual Studio Team Services, now Azure DevOps) on the one side, while promoting *CI* (Continuous Integration) & *CD* (Continuous Delivery) practices along with our own-flavored *CT* (Continuous Testing) process (which includes Security Testing) on the other side
+|===
+
+[frame=none]
+[grid=none]
+|===
+^| Key Achievements
+
+^.^|
+Added *new features* to the Cloud Portal (e.g. User & Project Management, User Profile Editor)
+
+Implemented *health check* mechanisms to the microservices to improve system resiliency
+
+Increased the ease of use the application by adding various *application settings* (e.g. automatic authentication token storage, file upload size limit)
+|===

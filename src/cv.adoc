@@ -1,0 +1,10 @@
+:nofooter:
+
+[.text-center]
+== Teodor Chirileanu's Curriculum Vitæ
+
+include::teodor.adoc[]
+
+include::work.adoc[]
+
+include::misc.adoc[]
