@@ -10,8 +10,7 @@ __Software Professional, Clean Coder, and Merciless Refactorer,
 in roughly that order__ +
 
 === _Contact_
-teodorchirileanu@gmail.com + 
-teodor@thecarpathiancoder.dev +
+teodorchirileanu@gmail.com +
 +33 (0) 7 53 81 19 86 +
 https://linkedin.com/in/teoch +
 Neuilly sur Seine, Île-de-France + 
@@ -20,7 +19,7 @@ Neuilly sur Seine, Île-de-France +
 [.text-center]
 === _Summary_
 [.text-justify]
-Tech-Savvy professional with more than *3 years* of experience in industries such as _finance_, _banking_ and _information technology_. Adept *software craftsman* coupled with competences in _designing_, _developing_ and _maintaining_ clean state-of-the-art web, desktop, and mobile software. Passionate about architectural cleanliness, avid *Agile* follower, adherent to the *DevOps* mindset, proficient with the __.NET framework__ and expert in the __C# language__. 
+Tech-Savvy professional with *3 years* of experience in industries such as _finance_, _banking_ and _information technology_. Adept *software craftsman* coupled with competences in _designing_, _developing_ and _maintaining_ clean state-of-the-art web, desktop, and mobile software. Passionate about architectural cleanliness, avid *Agile* follower, adherent to the *DevOps* mindset, proficient with the __.NET framework__ and expert in the __C# language__. 
 
 [.text-center]
 === _Proficiencies_
@@ -32,7 +31,7 @@ Tech-Savvy professional with more than *3 years* of experience in industries suc
 ^a|`C#, Java, Javascript, TypeScript, Python, SQL, Powershell`
 ^a|`.NET, Angular, Xamarin, ASP.NET`
 ^a|`Git, Azure DevOps, Teamcity, Rider, Intellij, PyCharm`
-^a|`Windows, Windows Server, Linux (CentOs), Cloud (Azure), Mobile (Xamarin)`
+^a|`Windows, Windows Server, Linux, Cloud`
 |===
 
 [.text-center]
@@ -62,8 +61,8 @@ Certified *Tester* Foundation Level (ISTQB) - 2018
 |===
 ^|Company ^|Role ^|Duration
 
-^.^|Enedis (Groupe *EDF*) ^.^|*.NET/Java/Python/* Developer ^.^| May 2019 - Present
-^.^|Softeam (Groupe *La Poste*) ^.^|Software Consultant ^.^| May 2019 - Present 
+^.^|Enedis (Groupe *EDF*) ^.^|*.NET/Java/Python/* Developer ^.^| May 2019 - January 2021
+^.^|Softeam (Groupe *La Poste*) ^.^|Software Consultant ^.^| May 2019 - January 2021
 ^.^|**Société Générale** CIB ^.^|*.NET/SQL* Developer ^.^| July 2018 - May 2019
 .2+^.^|Invivoo ^.^|_Senior_ Software Consultant ^.^| February 2018 - May 2019
 ^.^|Software Consultant ^.^| July 2018 - February 2019

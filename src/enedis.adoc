@@ -16,7 +16,7 @@ _Location_: Le Capitole (Nanterre, France)
 
 _Employment Type_: Consulting Contract
 
-_Contract Duration_: *1 year+*
+_Contract Duration_: 18 months
 
 ^.^|
 _Platforms_: *Windows* 10, Windows Server 2012
@@ -49,11 +49,11 @@ My team and I were responsible for *developing* and *maintaining* _Erable-Talon_
 ^| Key Achievements
 
 ^.^|
-Re-worked one-handedly one of the _base tiers_, drastically improving the *performance* and *stability* of the system
+Re-worked one of the _base tiers_, drastically improving the *performance* and *stability* of the system
 
-Wrote extensive *documentation* concerning _integration/deployment procedures_
+Developed a *Java* web-server acting as a middle-man between the Frontend and the Backend
 
-*Refactored* a _critical module_ of the system, further simplifying the communication between other modules
+Wrote a *GUI* (WPF + GoXam) for generating electrical workflows
 
 Created a *code generation* pipeline that takes functional specifications and translates them into _C#_
 
