@@ -12,7 +12,8 @@ in roughly that order__ +
 === _Contact_
 teodorchirileanu@gmail.com +
 +33 7 53 81 19 86 +
-https://linkedin.com/in/teoch +
+linkedin.com/in/teoch +
+github.com/TeoChirileanu
 |===
 
 [.text-center]

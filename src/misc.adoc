@@ -2,10 +2,6 @@
 === Miscellanea
 
 [.text-center]
-==== _Repos_
-https://github.com/TeoChirileanu ; https://github.com/TheCarpathianCoder ; https://dev.azure.com/TheCarpathianCoder
-
-[.text-center]
 ==== _Life_
 Born and organically grown in *Jassy* (Romania) (1995 - 2017) ; 
 Took life to the next level in *Wyoming* (USA) (2016) ; + 
