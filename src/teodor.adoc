@@ -3,7 +3,7 @@
 [%autowidth.stretch]
 |===
 | |
-^.^a|image:teodor.jpg[teodor, 225]
+^.^a|image:https://github.com/TeoChirileanu/CV/blob/master/src/teodor.jpg?raw=true[teodor, 225]
 ^.^a|
 ===  _Abstract_
 __Software Professional, Clean Coder, and Merciless Refactorer,
