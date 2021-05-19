@@ -24,7 +24,7 @@ _Contract Duration_: 19 months
 ^| Key Achievements
 
 ^.^|
-*Actively participated* in the _C# Community_ (e.g. posting on the community feed, presenting technical subjects at meetups)
+*Actively participated* in the _C# Community_ (e.g. posting on the community feed, presenting technical subjects)
 
 *Created a blog* for the community (https://teochirileanu.github.io) on which I published _5 technical articles_
 |===

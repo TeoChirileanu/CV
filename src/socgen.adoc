@@ -8,7 +8,7 @@
 ^.^|
 _Position_: Backend Developer (*.NET*/SQL)
 
-_Company_: Société Générale *CIB* (Corporate & Investment Banking)
+_Company_: Société Générale CIB (Corporate & Investment Banking)
 
 _Industry_: *Banking*
 
@@ -21,13 +21,13 @@ _Contract Duration_: 11 months
 ^.^|
 _Platforms_: Windows 7/10, *Windows Server* 2016
 
-_Frameworks_: .NET 4.5, *SSIS* (SQL Server Integration Services)
+_Frameworks_: .NET 4.5, SQL Server Integration Services
 
 _Languages_: C# 5.0, *PowerShell* 5.1, T-SQL
 
 _Libraries_: NUnit, NSubstitute, NInject, NCrunch, Resharper, *SQL Server*, ZeroMQ, *Specflow*
 
-_Tools_: Git, Visual Studio 2019, Visual Studio Code, SSMS (SQL Server Management Studio), *TeamCity* 2008/2018, XL Deploy
+_Tools_: Git, Visual Studio 2019, VS Code, SQL Server Management Studio, *TeamCity* 2008/2018, XL Deploy
 |===
 
 [frame=none]
@@ -39,7 +39,7 @@ _Tools_: Git, Visual Studio 2019, Visual Studio Code, SSMS (SQL Server Managemen
 Liqor is an internal *financial application* responsible for computing various _liquidity metrics_ and generating afferent _reports_ demanded by the BDF (_Bank of France_) and the BCE (_European Central Bank_)
 
 ^.^|
-For the first six months, I was part of the team responsible for *production* environment *monitoring* and *support*. For the last five months, I worked on the team in charge of implementing *new liquidity metrics* (_Basel III_), as well as *rewriting SSIS scripts*
+I was part of the team responsible for *monitoring* the *production* environment. Moreover, I worked on implementing *new liquidity metrics* (_Basel III_), as well as *rewriting SSIS scripts*
 |===
 
 [frame=none]
@@ -52,7 +52,7 @@ Wrote a custom _XML parser_ that reduced *threefold* the time required to integr
 
 *Rewrote and optimized* two critical _SSIS scripts_, improving performance by over *35%*
 
-*Redesigned the CI pipeline* in the context of migrating _TeamCity 2008_ to _2018_, which improved performance by *an order of magnitude*
+*Redesigned the CI pipeline* while _TeamCity 2008_ to _2018_, improving performance by *an order of magnitude*
 
 _Designed and implemented_ the *CD pipeline* leading the minimal human input during the deployment process 
 

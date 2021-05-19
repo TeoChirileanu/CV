@@ -39,7 +39,7 @@ _Tools_: Git, Visual Studio 2019, *Rider*, PyCharm, PowerFactory 2018, yEd, Note
 Enedis _Erable-Talon_ is an in-house, *N-Tier* application framework used to compute various *electrotechnical metrics* of the french electrical grid, such as calculating the cost of new connections for *end users*
 
 ^.^|
-My team and I were responsible for *developing* and *maintaining* _Erable-Talon_ on the one hand and providing it as a service to other teams on the other hand, enabling them to create and execute independent *electrotechnical workflows*
+My team and I were responsible for *developing* and *maintaining* _Erable-Talon_, a service enabling other internal teams to create and execute independent *electrotechnical workflows*
 |===
 
 [%header]

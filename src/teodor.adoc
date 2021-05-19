@@ -5,8 +5,9 @@
 | |
 ^.^a|image:https://github.com/TeoChirileanu/CV/blob/master/src/teodor.jpg?raw=true[teodor, 225]
 ^.^a|
+
 ===  _Abstract_
-__Software Professional, Clean Coder, and Merciless Refactorer,
+__Software Professional, Clean Coder, and Merciless Refactorer, +
 in roughly that order__ +
 
 === _Contact_
@@ -29,8 +30,8 @@ Tech-Savvy professional with over *3 years* of experience in industries such as 
 
 ^a|`C#, TypeScript, SQL`
 ^a|`.NET, Angular, ASP.NET`
-^a|`Git, Azure DevOps, Jetbrains Suite`
-^a|`Windows (including Server), Linux, Cloud`
+^a|`VSTS, Jetbrains`
+^a|`Windows, Linux`
 |===
 
 [.text-center]

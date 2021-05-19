@@ -10,8 +10,6 @@ _Position_: Full Stack Developer (.NET/*Angular*)
 
 _Company_: Tricentis GmbH
 
-_Industry_: *IT*
-
 _Location_: Vienna International Center (*Vienna*, Austria)
 
 _Employment Type_: Permanent Contract
@@ -27,7 +25,7 @@ _Languages_: C# 7.2, *TypeScript* 2.9
 
 _Libraries_: NUnit, Moq, Resharper, SQL Server, *MongoDB*
 
-_Tools_: SVN, Git, Visual Studio 2017, Visual Studio Code, *Swagger, Robo 3T*, Service Fabric, Elastic Pool, Load Balancer, Storage, SQL Server, Key Vault, B2C
+_Tools_: SVN, Visual Studio/Code, *Robo 3T* SQL Server
 |===
 
 [frame=none]
@@ -45,7 +43,7 @@ Tricentis *Tosca* is a software solution that is targeted towards *automating*  
 ^|Product Description
 
 ^.^|
-My team and I were responsible for maintaining "thick" Tosca (GUI application) on the one hand, and developing "thin" Tosca (*microservice architecture*) on the other hand. Strong believers in *Agile*, my team and I quickly adhered to the *DevOps* mindset by pushing the adoption of tools such as Git and VSTS (Visual Studio Team Services, now Azure DevOps) on the one side, while promoting *CI* & *CD* practices along with our own-flavored *CT* process on the other side
+My team and I were responsible for maintaining "thick" Tosca (GUI application) on the one hand, and developing "thin" Tosca (*microservice architecture*) on the other hand. Strong believers in *Agile*, my team and I quickly adhered to the *DevOps* mindset by pushing the adoption of tools such as Git and VSTS (Visual Studio Team Services, now Azure DevOps) on the one side, while promoting *CI* & *CD* practices along with our own-flavored *CT* process
 |===
 
 [frame=none]
@@ -55,8 +53,6 @@ My team and I were responsible for maintaining "thick" Tosca (GUI application) o
 
 ^.^|
 Added *new features* to the Cloud Portal (e.g. User & Project Management, User Profile Editor)
-
 Implemented *health check* mechanisms to the microservices to improve system resiliency
-
-Increased the ease of use the application by adding various *application settings* (e.g. automatic authentication token storage)
+Increased the ease of use the application by adding various *application settings* (e.g. Auth0 token storage)
 |===
