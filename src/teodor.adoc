@@ -28,10 +28,10 @@ Tech-Savvy professional with over *3 years* of experience in industries such as 
 |===
 ^|Languages ^|Frameworks ^|Tools ^|Platforms
 
-^a|`C#, TypeScript, SQL`
-^a|`.NET, Angular, ASP.NET`
-^a|`VSTS, Jetbrains`
-^a|`Windows, Linux`
+^.^|*C#*, TypeScript, SQL
+^.^|*.NET*, Angular, ASP.NET
+^.^|*DevOps*, Jetbrains
+^.^|*Windows*, Linux
 |===
 
 [.text-center]
@@ -46,11 +46,8 @@ Tech-Savvy professional with over *3 years* of experience in industries such as 
 Bilingual *Baccalaureate* Diploma (*2014*)
 
 ^.^| Programming in *C#* - __Top 5%__ (Microsoft) - 2020
-
 Professional *Scrum* Developer (Agile Alliance) - 2019
-
 Certified *SQL* Developer (W3Schools) - 2019
-
 Certified *Tester* Foundation Level (ISTQB) - 2018
 |===
 
