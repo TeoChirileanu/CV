@@ -12,7 +12,7 @@ in roughly that order__ +
 
 === _Contact_
 teodor@thecarpathiancoder.dev +
-+40 748 333 3619 +
++40 748 333 619 +
 https://github.com/TeoChirileanu
 |===
 
