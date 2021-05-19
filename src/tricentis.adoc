@@ -16,7 +16,7 @@ _Location_: Vienna International Center (*Vienna*, Austria)
 
 _Employment Type_: Permanent Contract
 
-_Contract Duration_: 10 months
+_Contract Duration_: 12 months
 
 ^.^|
 _Platforms_: Windows 10, *Azure*
