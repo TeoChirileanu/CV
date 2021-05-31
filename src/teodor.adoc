@@ -11,9 +11,8 @@ __Software Professional, Clean Coder, and Merciless Refactorer, +
 in roughly that order__ +
 
 === _Contact_
-teodor@thecarpathiancoder.dev +
-+40 748 333 619 +
-https://github.com/TeoChirileanu
+image:https://github.com/TeoChirileanu/CV/blob/master/src/github.png?raw=true[github, 50, link=https://github.com/TeoChirileanu]
+image:https://github.com/TeoChirileanu/CV/blob/master/src/linkedin.png?raw=true[linkedin, 50, link=https://www.linkedin.com/in/teoch/]
 |===
 
 [.text-center]
