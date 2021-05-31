@@ -11,14 +11,15 @@ __Software Professional, Clean Coder, and Merciless Refactorer, +
 in roughly that order__ +
 
 === _Contact_
-image:https://github.com/TeoChirileanu/CV/blob/master/src/github.png?raw=true[github, 50, link=https://github.com/TeoChirileanu]
-image:https://github.com/TeoChirileanu/CV/blob/master/src/linkedin.png?raw=true[linkedin, 50, link=https://www.linkedin.com/in/teoch/]
+image:https://github.com/TeoChirileanu/CV/blob/master/src/github.png?raw=true[github, 40, link=https://github.com/TeoChirileanu] +
+
+image:https://github.com/TeoChirileanu/CV/blob/master/src/linkedin.png?raw=true[linkedin, 40, link=https://www.linkedin.com/in/teoch/]
 |===
 
 [.text-center]
 === _Summary_
 [.text-justify]
-Tech-Savvy professional with over *3 years* of experience in industries such as _finance_, _banking_, _information technology_ and _education_. Adept *software craftsman* coupled with competences in _designing_, _developing_ and _maintaining_ clean state-of-the-art web, desktop, and mobile software, as well as teaching children the art of programming. Passionate about architectural cleanliness, clean code and programming principles, and coding in general. Avid *Agile* believer, *DevOps* mindset follower, proficient with the __.NET framework__ and expert in the __C# language__.
+Tech-Savvy professional with over *4 years* of experience in industries such as _banking_, _information technology_ and _education_. Adept *software craftsman* coupled with competences in _designing_, _developing_ and _maintaining_ clean state-of-the-art web, desktop, and mobile software. Passionate about architectural corectness, clean code and programming principles. Avid *Agile* follower, *DevOps* believer. Proficient with the __.NET framework__ and expert in the __C# language__.
 
 [.text-center]
 === _Proficiencies_
@@ -34,7 +35,20 @@ Tech-Savvy professional with over *3 years* of experience in industries such as 
 |===
 
 [.text-center]
-=== _Training_
+=== _Experience_
+[frame=none]
+[grid=none]
+|===
+^|Company ^|Role ^|Duration
+
+^.^|Freelancer (Iași) ^.^| *Coding* Instructor ^.^|5+ months (Feb 2021 - Present)
+^.^|Energie de France (Nanterre) ^.^|Backend Developer (*.NET*/Java) ^.^|24 months (May 2019 - April 2021)
+^.^|Société Générale (Paris) ^.^| Backend Developer (*.NET*/SQL) ^.^|12 months (June 2018 - May 2019)
+^.^|Tricentis (Wien) ^.^|Fullstack Developer (*.NET/Angular*) ^.^|12 months (July 2017 - June 2018)
+|===
+
+[.text-center]
+=== _Training and Education_
 [frame=none]
 [grid=none]
 |===
@@ -44,21 +58,11 @@ Tech-Savvy professional with over *3 years* of experience in industries such as 
 
 Bilingual *Baccalaureate* Diploma (*2014*)
 
-^.^| Programming in *C#* - __Top 5%__ (Microsoft) - 2020
-Professional *Scrum* Developer (Agile Alliance) - 2019
-Certified *SQL* Developer (W3Schools) - 2019
-Certified *Tester* Foundation Level (ISTQB) - 2018
-|===
+^.^| Programming in *C#* - __Top 5%__ (Microsoft) - 2020 +
 
-[.text-center]
-=== _Experience_
-[frame=none]
-[grid=none]
-|===
-^|Company ^|Role ^|Duration
+Professional *Scrum* Developer (Agile Alliance) - 2019 +
 
-^.^|Freelancer ^.^| *Coding* Instructor ^.^| 4+ months (Feb 2021 - Present)
-^.^|Enedis (Groupe *EDF*) ^.^|*.NET/Java* Developer ^.^| 21 months (May 2019 - Feb 2021)
-^.^|**Société Générale** ^.^|*.NET/SQL* Developer ^.^| 11 months (July 2018 - May 2019)
-^.^|Tricentis ^.^|*.NET/Angular* Developer ^.^| 12 months (July 2017 - June 2018)
+Certified *SQL* Developer (W3Schools) - 2019 +
+
+Certified *Tester* Foundation Level (ISTQB) - 2018 +
 |===
