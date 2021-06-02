@@ -11,11 +11,11 @@ __Software Professional, Clean Coder, and Merciless Refactorer, +
 in roughly that order__ +
 
 === _Contact_
-image:https://github.com/TeoChirileanu/CV/blob/master/src/github.png?raw=true[github, 25, link=https://github.com/TeoChirileanu] +
+image:https://github.com/TeoChirileanu/CV/blob/master/src/github.png?raw=true[github, 25] https://github.com/TeoChirileanu +
 
-image:https://github.com/TeoChirileanu/CV/blob/master/src/whatsapp.png?raw=true[phone, 25, link=tel:+40748333619] +
+image:https://github.com/TeoChirileanu/CV/blob/master/src/telephone.png?raw=true[phone, 25] (+40) 748 333 619 image:https://github.com/TeoChirileanu/CV/blob/master/src/whatsapp.png?raw=true[whatsapp, 25] (+33) 753 811 986 +
 
-image:https://github.com/TeoChirileanu/CV/blob/master/src/linkedin.png?raw=true[linkedin, 25, link=https://www.linkedin.com/in/teoch/]
+image:https://github.com/TeoChirileanu/CV/blob/master/src/linkedin.png?raw=true[linkedin, 25] https://www.linkedin.com/in/teoch/
 |===
 
 [.text-center]
