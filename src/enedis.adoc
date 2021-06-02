@@ -16,7 +16,7 @@ _Location_: Le Capitole (Nanterre, France)
 
 _Employment Type_: Consulting Contract
 
-_Contract Duration_: 19 months
+_Contract Duration_: 24 months
 
 ^.^|
 _Platforms_: *Windows* 10, Windows Server 2012
