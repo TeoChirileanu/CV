@@ -3,7 +3,7 @@
 
 docker pull asciidoctor/docker-asciidoctor
 
-docker tag adoc asciidoctor/docker-asciidoctor
+docker tag asciidoctor/docker-asciidoctor adoc
 
 docker run -it -v C:\Users\teodo\Documents\GitHub\CV:/documents/ adoc
 
