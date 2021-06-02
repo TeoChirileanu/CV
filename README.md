@@ -13,6 +13,6 @@ docker rename inspiring_borg adoc
 
 docker start adoc
 
-docker atach adoc
+docker attach adoc
 
 asciidoctor src/cv.adoc -o index.html
