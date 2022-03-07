@@ -9,6 +9,8 @@ docker run -it -v C:\Users\teodo\Documents\GitHub\CV:/documents/ adoc
 
 exit
 
+docker ps -a
+
 docker rename inspiring_borg adoc
 
 docker start adoc
