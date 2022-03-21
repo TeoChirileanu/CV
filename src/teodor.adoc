@@ -7,21 +7,20 @@
 ^.^a|
 
 ===  _Abstract_
-__Software Professional, Clean Coder, and Merciless Refactorer, +
-in roughly that order__ +
+__Software Professional, Clean Coder, and Merciless Refactorer, in roughly that order__ +
 
 === _Contact_
+image:https://github.com/TeoChirileanu/CV/blob/master/src/telephone.png?raw=true[phone, 25] +40748333619 +
 image:https://github.com/TeoChirileanu/CV/blob/master/src/github.png?raw=true[github, 25] https://github.com/TeoChirileanu +
+image:https://github.com/TeoChirileanu/CV/blob/master/src/gmail.png?raw=true[github, 25] teodorchirileanu@gmail.com
 
-image:https://github.com/TeoChirileanu/CV/blob/master/src/telephone.png?raw=true[phone, 25] (+40) 748 333 619 image:https://github.com/TeoChirileanu/CV/blob/master/src/whatsapp.png?raw=true[whatsapp, 25] (+33) 753 811 986 +
-
-image:https://github.com/TeoChirileanu/CV/blob/master/src/linkedin.png?raw=true[linkedin, 25] https://www.linkedin.com/in/teoch/
 |===
 
 [.text-center]
-=== _Summary_
+== _Summary_
 [.text-justify]
-Tech-Savvy professional with over *4 years* of experience in industries such as _banking_, _information technology_ and _education_. Adept *software craftsman* coupled with competences in _designing_, _developing_ and _maintaining_ clean state-of-the-art web, desktop, and mobile software. Passionate about architectural corectness, clean code and programming principles. Avid *Agile* follower, *DevOps* believer. Proficient with the __.NET framework__ and expert in the __C# language__.
+
+Tech-Savvy professional with *5 years* of experience in industries such as _banking_, _information technology_ and _accounting_. Adept *software craftsman* coupled with competences in _designing_, _developing_ and _maintaining_ clean state-of-the-art web, desktop, and mobile software. Passionate about architectural corectness, clean code and programming principles, always *leading by example*. Proficient in __.NET__ and __Angular__, expert in the __C# language__.
 
 [.text-center]
 === _Proficiencies_
@@ -31,9 +30,9 @@ Tech-Savvy professional with over *4 years* of experience in industries such as 
 ^|Languages ^|Frameworks ^|Tools ^|Platforms
 
 ^.^|*C#*, TypeScript, SQL
-^.^|*.NET*, Angular, ASP.NET
-^.^|*DevOps*, Jetbrains
-^.^|*Windows*, Linux
+^.^|*.NET*, Angular, Xamarin
+^.^|*DevOps*, Jetbrains, TFS
+^.^|*Windows*, Linux, Cloud
 |===
 
 [.text-center]
@@ -43,10 +42,10 @@ Tech-Savvy professional with over *4 years* of experience in industries such as 
 |===
 ^|Company ^|Role ^|Duration
 
-^.^|Freelancer (Iași) ^.^| *Coding* Instructor ^.^|5+ months (Feb 2021 - Present)
-^.^|Energie de France (Nanterre) ^.^|Backend Developer (*.NET*/Java) ^.^|24 months (May 2019 - April 2021)
-^.^|Société Générale (Paris) ^.^| Backend Developer (*.NET*/SQL) ^.^|12 months (June 2018 - May 2019)
-^.^|Tricentis (Wien) ^.^|Fullstack Developer (*.NET/Angular*) ^.^|12 months (July 2017 - June 2018)
+^.^|Beenear (Iași) ^.^| *Lead* Developer (.NET/*Angular*) ^.^|July 2021 - Present
+^.^|Energie de France (Nanterre) ^.^|Backend Developer (*.NET*/Java) ^.^|May 2019 - April 2021
+^.^|Société Générale (Paris) ^.^| Backend Developer (*.NET*/SQL) ^.^|June 2018 - May 2019
+^.^|Tricentis (Vienna) ^.^|Fullstack Developer (*.NET/Angular*) ^.^|July 2017 - June 2018
 |===
 
 [.text-center]
@@ -60,11 +59,9 @@ Tech-Savvy professional with over *4 years* of experience in industries such as 
 
 Bilingual *Baccalaureate* Diploma (*2014*)
 
-^.^| Programming in *C#* - __Top 5%__ (Microsoft) - 2020 +
-
+^.^| *Front* End Developer (W3Schools) - 2021 +
+Programming in *C#* - __Top 5%__ (Microsoft) - 2020 +
 Professional *Scrum* Developer (Agile Alliance) - 2019 +
-
 Certified *SQL* Developer (W3Schools) - 2019 +
-
 Certified *Tester* Foundation Level (ISTQB) - 2018 +
 |===

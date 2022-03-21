@@ -1,8 +1,5 @@
 :nofooter:
 
-[.text-center]
-== Teodor Chirileanu's Curriculum Vitæ
-
 include::teodor.adoc[]
 
 <<<
