@@ -42,10 +42,10 @@ Tech-Savvy professional with *5 years* of experience in industries such as _bank
 |===
 ^|Company ^|Role ^|Duration
 
-^.^|Beenear (Iași) ^.^| *Lead* Developer (.NET/*Angular*) ^.^|July 2021 - Present
-^.^|Energie de France (Nanterre) ^.^|Backend Developer (*.NET*/Java) ^.^|May 2019 - April 2021
-^.^|Société Générale (Paris) ^.^| Backend Developer (*.NET*/SQL) ^.^|June 2018 - May 2019
-^.^|Tricentis (Vienna) ^.^|Fullstack Developer (*.NET/Angular*) ^.^|July 2017 - June 2018
+^.^|Beenear (Iași) ^.^| Lead .NET Developer (with Angular) ^.^| One Year (07/21 - 06/22)
+^.^|Energie de France (Nanterre) ^.^| Senior .NET Developer (with Python) ^.^| Two Years (05/19 - 04/21)
+^.^|Société Générale (Paris) ^.^| Middle .NET Developer (with SQL) ^.^| One Year (06/18 - 05/19)
+^.^|Tricentis (Vienna) ^.^| Junior .NET Developer (with Angular) ^.^| One Year (06/19 - 05/18)
 |===
 
 [.text-center]
@@ -60,8 +60,12 @@ Tech-Savvy professional with *5 years* of experience in industries such as _bank
 Bilingual *Baccalaureate* Diploma (*2014*)
 
 ^.^| *Front* End Developer (W3Schools) - 2021 +
+
 Programming in *C#* - __Top 5%__ (Microsoft) - 2020 +
+
 Professional *Scrum* Developer (Agile Alliance) - 2019 +
+
 Certified *SQL* Developer (W3Schools) - 2019 +
+
 Certified *Tester* Foundation Level (ISTQB) - 2018 +
 |===

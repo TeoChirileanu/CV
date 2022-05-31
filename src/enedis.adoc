@@ -27,7 +27,7 @@ _Languages_: *C#* 6.0, Python 3.5, DPL
 
 _Libraries_: NUnit, NSubstitute, NFLuent, NCrunch, Resharper, Sqlite, Parsimonious, Mermaid
 
-_Tools_: Git, Visual Studio 2019, *Rider*, PyCharm, PowerFactory 2018, yEd, Notepad++
+_Tools_: Git, Visual Studio 2019, *Rider*, PyCharm, PowerFactory 2018, yEd
 |===
 
 [frame=none]

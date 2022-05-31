@@ -52,7 +52,11 @@ My team and I were responsible for maintaining "thick" Tosca (GUI application) o
 ^| Key Achievements
 
 ^.^|
-Added *new features* to the Cloud Portal (e.g. User & Project Management, User Profile Editor)
+Improved the overall application performance by over 50% thanks to the decommissioning of the service bus
+
+Added two new features to the Cloud Portal 1) User & Project Management 2) User Profile Editor
+
 Implemented *health check* mechanisms to the microservices to improve system resiliency
-Increased the ease of use the application by adding various *application settings* (e.g. Auth0 token storage)
+
+Increased the ease of use the application by adding an essential application setting: configurable Auth0 token storage
 |===
