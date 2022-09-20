@@ -1,6 +1,5 @@
 # CV
 
-
 docker pull asciidoctor/docker-asciidoctor
 
 docker tag asciidoctor/docker-asciidoctor adoc

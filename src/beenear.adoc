@@ -14,8 +14,6 @@ _Industry_: *Software Services*
 
 _Location_: Iasi, Romania
 
-_Employment Type_: Contract
-
 _Contract Duration_: 12 months
 
 ^.^|
@@ -25,9 +23,9 @@ _Frameworks_: *.NET* 6, Angular 13
 
 _Languages_: *C#* 10, TypeScript 4.6
 
-_Libraries_: Resharper, Moq, Mojo Portal, Autofac
+_Libraries_: *Resharper*, Moq, Mojo Portal, Autofac
 
-_Tools_: Git, Visual Studio 2022, DataGrip, WebStorm, Azure DevOps
+_Tools_: Git, VS 2022, DataGrip, WebStorm, *Azure DevOps*
 |===
 
 [frame=none]
@@ -36,14 +34,14 @@ _Tools_: Git, Visual Studio 2022, DataGrip, WebStorm, Azure DevOps
 ^|Product Description ^|Project Responsabilities
 
 ^.^|
-OpenFinance is the leading and one of the most popular accounting tools used in Italy.
+OpenFinance is the leading and one of the most *popular accounting* tools used in Italy.
 
-EasyOne is an industry-leading CRM used by thousands of customers accross the Iberian peninsula.
+EasyOne is an *industry-leading CRM* used by thousands of customers accross the Iberian peninsula.
 
 ^.^|
-Responsible for migrating the legacy accounting software OpenGate from Microsoft WebForms to Angular 12. +
+Responsible for *migrating* the legacy accounting software OpenGate from Microsoft WebForms to Angular 12. +
 
-In charge with maintaining EasyOneCrm, a legacy WPF application, along with the task of refactoring it to microservices.
+In charge with maintaining EasyOneCrm, a WPF application, along with the task of refactoring it to *microservices*.
 
 |===
 
@@ -54,11 +52,9 @@ In charge with maintaining EasyOneCrm, a legacy WPF application, along with the 
 ^| Key Achievements
 
 ^.^|
-Increased the performance of OpenGate threefold by rewriting two critical components in Angular
+Increased the performance of OpenGate *threefold* by rewriting two critical components in Angular
 
-Mentored two juniors and one intern
+*Mentored* one middle developer, three juniors and one intern
 
-Reduced loading time by 7x by re-architecturing the Login process
-
-Taught and took care of one junior and one middle developer 
+Reduced loading time by *7x* by re-architecturing the Login process
 |===

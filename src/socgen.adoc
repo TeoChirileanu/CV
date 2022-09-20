@@ -8,13 +8,11 @@
 ^.^|
 _Position_: Backend Developer (*.NET*/SQL)
 
-_Company_: Société Générale CIB (Corporate & Investment Banking)
+_Company_: Société Générale Corporate & *Investment* Banking
 
 _Industry_: *Banking*
 
 _Location_: Tours Société Générale (*La Défense*, France)
-
-_Employment Type_: Consulting Contract
 
 _Contract Duration_: 12 months
 
@@ -25,9 +23,9 @@ _Frameworks_: .NET 4.5, SQL Server Integration Services
 
 _Languages_: C# 5.0, *PowerShell* 5.1, T-SQL
 
-_Libraries_: NUnit, NSubstitute, NInject, NCrunch, Resharper, *SQL Server*, ZeroMQ, *Specflow*
+_Libraries_: NInject, NCrunch, ZeroMQ, *Specflow*
 
-_Tools_: Git, Visual Studio 2019, VS Code, SQL Server Management Studio, *TeamCity* 2008/2018, XL Deploy
+_Tools_: Git, Vs 2019 & Code, SSMS, *TeamCity*, XL Deploy
 |===
 
 [frame=none]
