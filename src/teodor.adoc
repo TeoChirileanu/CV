@@ -3,7 +3,7 @@
 [%autowidth.stretch]
 |===
 | |
-^.^a|image:https://github.com/TeoChirileanu/CV/blob/master/src/teodor.jpg?raw=true[teodor, 220]
+^.^a|image:https://github.com/TeoChirileanu/CV/blob/master/src/alt-profile.png?raw=true[teodor, 250]
 ^.^a|
 
 ===  _Abstract_
