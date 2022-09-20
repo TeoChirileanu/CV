@@ -10,9 +10,9 @@ _Position_: Full Stack Developer (.NET/*Angular*)
 
 _Company_: Tricentis GmbH
 
-_Location_: Vienna International Center (*Vienna*, Austria)
+_Industry_: Software as as Service (*SaaS*)
 
-_Employment Type_: Permanent Contract
+_Location_: Vienna International Center (*Vienna*, Austria)
 
 _Contract Duration_: 12 months
 
@@ -31,20 +31,15 @@ _Tools_: SVN, Visual Studio/Code, *Robo 3T* SQL Server
 [frame=none]
 [grid=none]
 |===
-^|Project Responsabilities
+^|Product Description ^|Project Responsabilities
 
 ^.^|
-Tricentis *Tosca* is a software solution that is targeted towards *automating*  application *testing*
-|===
-
-[frame=none]
-[grid=none]
-|===
-^|Product Description
+Tricentis *Tosca* is a software solution that is geared towards *automating*  application *testing*
 
 ^.^|
-My team and I were responsible for maintaining "thick" Tosca (GUI application) on the one hand, and developing "thin" Tosca (*microservice architecture*) on the other hand. Strong believers in *Agile*, my team and I quickly adhered to the *DevOps* mindset by pushing the adoption of tools such as Git and VSTS (Visual Studio Team Services, now Azure DevOps) on the one side, while promoting *CI* & *CD* practices along with our own-flavored *CT* process
+Breaking down the monolithic architecture into *microservices*. Migrating from SVN to *Git*. Building *CI & CD* pipelines.
 |===
+
 
 [frame=none]
 [grid=none]
@@ -52,11 +47,11 @@ My team and I were responsible for maintaining "thick" Tosca (GUI application) o
 ^| Key Achievements
 
 ^.^|
-Improved the overall application performance by over 50% thanks to the decommissioning of the service bus
+Improved the overall application performance by *over 50%* thanks to the decommissioning of the service bus
 
-Added two new features to the Cloud Portal 1) User & Project Management 2) User Profile Editor
+Added two new *features* to the Cloud Portal 1) User & Project Management 2) User Profile Editor
 
 Implemented *health check* mechanisms to the microservices to improve system resiliency
 
-Increased the ease of use the application by adding an essential application setting: configurable Auth0 token storage
+Increased the ease of use the application by adding an essential application setting: configurable *Auth0 token* storage
 |===
