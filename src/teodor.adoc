@@ -3,7 +3,7 @@
 [%autowidth.stretch]
 |===
 | |
-^.^a|image:https://github.com/TeoChirileanu/CV/blob/master/src/alt-profile.png?raw=true[teodor, 250]
+^.^a|image:https://github.com/TeoChirileanu/CV/blob/master/src/alt-profile.png?raw=true[teodor, 300]
 ^.^a|
 
 ===  _Abstract_
@@ -31,7 +31,7 @@ Tech-Savvy fullstack professional with over *5 years* of experience in _banking_
 ^|Languages ^|Frameworks ^|Tools ^|Platforms
 
 ^.^|*C#*, *TypeScript*, SQL, PowerShell, Python
-^.^|*.NET*, Angular, REST, gRPC, *SignalR*, *Docker*
+^.^|*.NET*, Angular, REST, gRPC, *SignalR*, *Docker*, NATS
 ^.^|TeamCity, TFS, *Jira*, GitLab, *Redis*, MSSQL, MongoDB
 ^.^|*Windows*, Linux, *Azure*, Google Cloud, *Kubernetes*
 |===
@@ -41,8 +41,10 @@ Tech-Savvy fullstack professional with over *5 years* of experience in _banking_
 [frame=none]
 [grid=none]
 |===
-^|*Company* ^|*Role* ^|*Duration*
-^.^|Baza7 (*Remote*) ^.^| *Freelance* .NET/Angular Developer ^.^| 06/22 - Present
+^|Company ^|Role ^|Duration
+
+^.^|Klips (*Tel Aviv*) ^.^| *Freelance* .NET/*DevOps* Developer ^.^| 06/22 - Present
+^.^|*Axa* (Paris) ^.^| *Freelance* .NET/*Angular* Developer ^.^| 06/22 - Present
 ^.^|Beenear (Iași) ^.^| Lead *.NET/Angular* Developer ^.^| One Year (07/21 - 06/22)
 ^.^|Enedis (*La Défense*) ^.^| Senior *.NET*/Python Developer ^.^| Two Years (05/19 - 04/21)
 ^.^|*Société Générale* (Paris) ^.^| Middle *.NET/Angular* Developer ^.^| One Year (06/18 - 05/19)

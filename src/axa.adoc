@@ -1,0 +1,53 @@
+[.text-center]
+=== _Axa_
+[frame=none]
+[grid=none]
+|===
+^|Summary ^|Technical Environment
+
+^.^|
+_Position_: Freelance Full Stack Developer (*.NET*/Angular)
+
+_Company_: Axa Investment Managers S.A.
+
+_Industry_: Investment Management (*Finance*)
+
+_Location_: Paris, *France*
+
+_Contract Duration_: 6 months
+
+^.^|
+_Platforms_: Windows 11, *Azure*
+
+_Frameworks_: .NET Core 3.1, *Angular 13*
+
+_Languages_: C# 11, TypeScript 4.8
+
+_Libraries_: Resharper, SQL Server
+
+_Tools_: WebStorm, Rider, GitKraken, *SimCorp*
+|===
+
+[frame=none]
+[grid=none]
+|===
+^|Product Description ^|Project Responsabilities
+
+^.^|
+As a responsible *investor*, business and employer, Axa Investment Managers actively invests for the long-term so that clients, people and communities can move forward.
+
+^.^|
+Main responsibilities include implementing, creating and extending a new *derivated credit pricing* along all necesarry models.
+|===
+
+
+[frame=none]
+[grid=none]
+|===
+^| Key Achievements
+
+^.^|
+Delivered mission-critical information about *currency & index options* to traders, allowing them to perform frequently occurring tasks such as *full unwinds* and *roll forwards* that reduced manual labor by *an order of magnitude*
+
+Decommissioned *~60%* Global One, a world-wide aggregator responsible for rolling repurchase agreements on outstanding holding positions.
+|===

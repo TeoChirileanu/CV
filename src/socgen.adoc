@@ -6,7 +6,7 @@
 ^|Summary ^|Technical Environment
 
 ^.^|
-_Position_: Backend Developer (*.NET*/SQL)
+_Position_: Full Stack Developer (*.NET*/Angular)
 
 _Company_: Société Générale Corporate & *Investment* Banking
 

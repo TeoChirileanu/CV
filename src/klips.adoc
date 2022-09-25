@@ -1,0 +1,53 @@
+[.text-center]
+=== _Klips_
+[frame=none]
+[grid=none]
+|===
+^|Summary ^|Technical Environment
+
+^.^|
+_Position_: Freelance Backend Developer (*.NET*)
+
+_Company_: Klips Ltd.
+
+_Industry_: Financial Services (*Fintech*)
+
+_Location_: Tel Aviv, *Israel*
+
+_Contract Duration_: 6 months
+
+^.^|
+_Platforms_: Windows 11, *Azure*, Kubernetes, Google Cloud
+
+_Frameworks_: .NET 7, *NATS*, Docker, Redis
+
+_Languages_: C# 11, PowerShell 7.2
+
+_Libraries_: Resharper, SQL Server, *MongoDB*
+
+_Tools_: DataGrip, Rider, GitKraken, Lens, *Kubernetes*
+|===
+
+[frame=none]
+[grid=none]
+|===
+^|Product Description ^|Project Responsabilities
+
+^.^|
+Klips is a one-stop-financial hub and fast-growing innovative *Fintech* company, creator of next generation Financial Hub including Crypto, Trading, Digital banking facilities, Shares dealing, using *cutting-edge technologies*.
+
+^.^|
+Creating an MVP that validates business ideas such as *fiat & crypto* deposits, swaps and withdrawals using modern technologies like Redis Backplane, Nats JetStreams, *Minimal APIs* and WebSockets.
+|===
+
+
+[frame=none]
+[grid=none]
+|===
+^| Key Achievements
+
+^.^|
+Major contributions to the CI pipeline, reducing intregration issues by a *factor of 5*
+
+Architected & implemented real-time, *sub-millisecond commucation* between NATS, Redis and the React frontend by leveraging *Reactive Programming* principles
+|===

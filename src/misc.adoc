@@ -3,15 +3,19 @@
 
 [.text-center]
 ==== _Life_
-Born and organically grown in *Iasi* (Romania) (1995 - 2017) +
-Took life to the next level in *Wyoming* (USA) (2016) + 
-Reached new heights in *Vienna* (Austria) (2017 - 2018) +
-Achieved enlightenment in *Paris* (France) (2018 - 2021) +
+Born and organically grown in *Iasi* (Romania) (1995 - 2017)
+
+Took life to the next level in *Wyoming* (USA) (2016)
+
+Reached new heights in *Vienna* (Austria) (2017 - 2018) 
+
+Achieved enlightenment in *Paris* (France) (2018 - 2021) 
+
 *Spreading the light* back home (2021 - present)
 
 [discrete]
 ===== __Books Read__
-Clean Code, The Clean Coder, Clean Architecture, Clean Agile, Elements of Reusable Object-Oriented Software, The Art of Unit Testing, Working Efficiently with Legacy Code, C# in Depth, Extreme Programming Explained, Scrum and XP from the Trenches, Daily Design Pattern, Test-Driven Development by Example, Refactoring, The Pragmatic Programmer, The Unicorn Project, The Phoenix Project, Managing Technical Debt, Concurrency in C# Cookbook, The Mythical Man-Month, Domain-Driven Design, Growing Object-Oriented Software Guided by Tests, RX.NET In Action
+Clean Code, The Clean Coder, Clean Architecture, Clean Agile, Elements of Reusable Object-Oriented Software, The Art of Unit Testing, Working Efficiently with Legacy Code, C# in Depth, Extreme Programming Explained, Scrum and XP from the Trenches, Daily Design Pattern, Test-Driven Development by Example, Refactoring, The Pragmatic Programmer, The Unicorn Project, The Phoenix Project, Managing Technical Debt, Concurrency in C# Cookbook, The Mythical Man-Month, Domain-Driven Design, Growing Object-Oriented Software Guided by Tests, RX.NET In Action, Agile Software Development
 
 [.text-center]
 ==== _What do others say about me?_
