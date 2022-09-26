@@ -34,10 +34,10 @@ _Tools_: WebStorm, Rider, GitKraken, *SimCorp*
 ^|Product Description ^|Project Responsabilities
 
 ^.^|
-As a responsible *investor*, business and employer, Axa Investment Managers actively invests for the long-term so that clients, people and communities can move forward.
+As responsible *investor*, business, and employer, Axa Investment Managers actively invests for the long term so clients, people, and communities can move forward.
 
 ^.^|
-Main responsibilities include implementing, creating and extending a new *derivated credit pricing* along all necesarry models.
+Primary responsibilities include implementing, creating, and extending a new *derivated credit pricing* along all necessary models.
 |===
 
 
@@ -47,7 +47,7 @@ Main responsibilities include implementing, creating and extending a new *deriva
 ^| Key Achievements
 
 ^.^|
-Delivered mission-critical information about *currency & index options* to traders, allowing them to perform frequently occurring tasks such as *full unwinds* and *roll forwards* that reduced manual labor by *an order of magnitude*
+Delivered mission-critical information about *currency & index options* to traders, allowing them to perform frequently occurring tasks such as *full unwinds* and *roll forwards* that reduced manual labor by *one order of magnitude*
 
 Decommissioned *~60%* Global One, a world-wide aggregator responsible for rolling repurchase agreements on outstanding holding positions.
 |===

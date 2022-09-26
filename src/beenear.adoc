@@ -34,14 +34,14 @@ _Tools_: Git, VS 2022, DataGrip, WebStorm, *Azure DevOps*
 ^|Product Description ^|Project Responsabilities
 
 ^.^|
-OpenFinance is the leading and one of the most *popular accounting* tools used in Italy.
+OpenFinance is the leading and one of Italy's most *popular accounting* tools.
 
-EasyOne is an *industry-leading CRM* used by thousands of customers accross the Iberian peninsula.
+EasyOne is an *industry-leading CRM* used by thousands of customers across the Iberian peninsula.
 
 ^.^|
 Responsible for *migrating* the legacy accounting software OpenGate from Microsoft WebForms to Angular 12. +
 
-In charge with maintaining EasyOneCrm, a WPF application, along with the task of refactoring it to *microservices*.
+In charge of maintaining EasyOneCrm, a WPF application, along with the task of refactoring it to *microservices*.
 
 |===
 
@@ -54,7 +54,7 @@ In charge with maintaining EasyOneCrm, a WPF application, along with the task of
 ^.^|
 Increased the performance of OpenGate *threefold* by rewriting two critical components in Angular
 
-*Mentored* one middle developer, three juniors and one intern
+*Mentored* one middle developer, three juniors, and one intern
 
-Reduced loading time by *7x* by re-architecturing the Login process
+Reduced loading time by *7x* by re-architecture-ing the Login process
 |===

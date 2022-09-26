@@ -34,10 +34,10 @@ _Tools_: Git, Vs 2019 & Code, SSMS, *TeamCity*, XL Deploy
 ^|Product Description ^|Project Responsabilities
 
 ^.^|
-Liqor is an internal *financial application* responsible for computing various _liquidity metrics_ and generating afferent _reports_ demanded by the BDF (_Bank of France_) and the BCE (_European Central Bank_)
+Liqor is an internal *financial application* responsible for computing various _liquidity metrics_ and generating afferent _reports_ demanded by the BDF (_Bank of France_) and the BCE (_European Central Bank_).
 
 ^.^|
-I was part of the team responsible for *monitoring* the *production* environment. Moreover, I worked on implementing *new liquidity metrics* (_Basel III_), as well as *rewriting SSIS scripts*
+I was part of the team responsible for *monitoring* the *production* environment. Moreover, I worked on implementing *new liquidity metrics* (_Basel III_), and *rewriting SSIS scripts*.
 |===
 
 [frame=none]
@@ -50,9 +50,9 @@ Wrote a custom _XML parser_ that reduced *threefold* the time required to integr
 
 *Rewrote and optimized* two critical _SSIS scripts_, improving performance by over *35%*
 
-*Redesigned the CI pipeline* while _TeamCity 2008_ to _2018_, improving performance by *an order of magnitude*
+*Redesigned the CI pipeline* while _TeamCity 2008_ to _2018_, improving performance by almost *one order of magnitude*
 
 _Designed and implemented_ the *CD pipeline* leading the minimal human input during the deployment process 
 
-*Taught and mentored* my newcomers on coding practices, software development and architecural processes
+*Taught and mentored* my newcomers on coding practices, software development, and architectural processes
 |===

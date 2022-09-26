@@ -34,7 +34,7 @@ _Tools_: SVN, Visual Studio/Code, *Robo 3T* SQL Server
 ^|Product Description ^|Project Responsabilities
 
 ^.^|
-Tricentis *Tosca* is a software solution that is geared towards *automating*  application *testing*
+Tricentis *Tosca* is a software solution that is geared towards *automating*  application *testing*.
 
 ^.^|
 Breaking down the monolithic architecture into *microservices*. Migrating from SVN to *Git*. Building *CI & CD* pipelines.
@@ -53,5 +53,5 @@ Added two new *features* to the Cloud Portal 1) User & Project Management 2) Use
 
 Implemented *health check* mechanisms to the microservices to improve system resiliency
 
-Increased the ease of use the application by adding an essential application setting: configurable *Auth0 token* storage
+Increased the ease of use of the application by adding an essential application setting: configurable *Auth0 token* storage
 |===

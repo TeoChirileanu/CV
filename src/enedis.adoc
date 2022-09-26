@@ -34,10 +34,10 @@ _Tools_: Git, VS 2019, *Rider*, PyCharm, PowerFactory 2018, yEd
 ^|Product Description ^|Project Responsabilities
 
 ^.^|
-Enedis _Talon_ is an in-house, *N-Tier* application framework used to compute various *electrotechnical metrics* of the french electrical grid, one of which is calculating the cost of new connections for *end users*
+Enedis _Talon_ is an in-house, *N-Tier* application framework used to compute various *electrotechnical metrics* of the french electrical grid, one of which is calculating the cost of new connections for *end users*.
 
 ^.^|
-My team and I were responsible for *developing* and *maintaining* _Talon_, a service enabling other internal teams to create and execute independent *electrotechnical workflows*
+My team and I were responsible for *developing* and *maintaining* _Talon_, a service enabling other internal teams to create and execute independent *electrotechnical workflows*.
 |===
 
 [%header]
@@ -49,11 +49,11 @@ My team and I were responsible for *developing* and *maintaining* _Talon_, a ser
 ^.^|
 Re-worked one of the _base tiers_, drastically improving the *performance* and *stability* of the system
 
-Developed a *Java* web-server acting as a middle-man between the Frontend and the Backend
+Developed a *Java* web server acting as a middle-man between the Frontend and the Backend
 
 Wrote a *GUI* (WPF + GoXam) for generating electrical workflows
 
 Created a *code generation* pipeline that takes functional specifications and translates them into _C#_
 
-*Developed* a _Supervisor_ responsible for *monitoring*, *deploying* and *configuring* modules
+*Developed* a _Supervisor_ responsible for *monitoring*, *deploying*, and *configuring* modules
 |===

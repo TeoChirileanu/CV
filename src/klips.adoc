@@ -34,10 +34,10 @@ _Tools_: DataGrip, Rider, GitKraken, Lens, *Kubernetes*
 ^|Product Description ^|Project Responsabilities
 
 ^.^|
-Klips is a one-stop-financial hub and fast-growing innovative *Fintech* company, creator of next generation Financial Hub including Crypto, Trading, Digital banking facilities, Shares dealing, using *cutting-edge technologies*.
+Klips is a one-stop-financial hub and fast-growing innovative *Fintech* company, creator of next-generation Financial Hub including Crypto, Trading, Digital banking facilities, Shares dealing, using *cutting-edge technologies*.
 
 ^.^|
-Creating an MVP that validates business ideas such as *fiat & crypto* deposits, swaps and withdrawals using modern technologies like Redis Backplane, Nats JetStreams, *Minimal APIs* and WebSockets.
+Creating an MVP that validates business ideas such as *fiat & crypto* deposits, swaps, and withdrawals using modern technologies like Redis Backplane, Nats JetStreams, *Minimal APIs*, and WebSockets.
 |===
 
 
@@ -47,7 +47,7 @@ Creating an MVP that validates business ideas such as *fiat & crypto* deposits, 
 ^| Key Achievements
 
 ^.^|
-Major contributions to the CI pipeline, reducing intregration issues by a *factor of 5*
+Significant contributions to the CI pipeline, reducing integration issues by a *factor of 5*
 
-Architected & implemented real-time, *sub-millisecond commucation* between NATS, Redis and the React frontend by leveraging *Reactive Programming* principles
+Architected & implemented real-time, *sub-millisecond communication* between NATS, Redis, and the React frontend by leveraging *Reactive Programming* principles
 |===

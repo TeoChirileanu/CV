@@ -7,7 +7,7 @@
 ^.^a|
 
 ===  _Abstract_
-__Software Professional, Clean Coder, and Merciless Refactorer, in roughly that order__ +
+__Software Professional, Clean Coder, and Merciless Refactorer, in roughly that order.__ +
 
 === _Contact_
 
@@ -21,7 +21,7 @@ image:https://github.com/TeoChirileanu/CV/blob/master/src/gmail.png?raw=true[gma
 == _Summary_
 [.text-justify]
 
-Tech-Savvy fullstack professional with over *5 years* of experience in _banking_, _fintech_ and _crypto_. Adept *software craftsman* coupled with competences in _designing_ & _developing_ clean state-of-the-art *cross-platform* software. Passionate about architecture and writing code that reads like well-written prose. *Leading by example*, always up to the challenge. Proficient in __.NET__ and __Angular__, expert in the __C#__ and __TypeScript__.
+Tech-Savvy full stack professional with over *5 years* of experience in _banking_, _fintech_, and _crypto_. Adept *software craftsman* coupled with competencies in _designing_ & _developing_ clean, state-of-the-art *cross-platform* software. Passionate about architecture and writing code that reads like well-written prose. *Leading by example*, always up to the challenge. Proficient in __.NET__ and __Angular__, an expert in  __C#__ and __TypeScript__.
 
 [.text-center]
 === _Proficiencies_
