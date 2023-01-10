@@ -50,4 +50,6 @@ Creating an MVP that validates business ideas such as *fiat & crypto* deposits, 
 Significant contributions to the CI pipeline, reducing integration issues by a *factor of 5*
 
 Architected & implemented real-time, *sub-millisecond communication* between NATS, Redis, and the React frontend by leveraging *Reactive Programming* principles
+
+Redesigned the *Crypto Wallet* component to be mobile-first using best web development practices
 |===

@@ -21,7 +21,7 @@ image:https://github.com/TeoChirileanu/CV/blob/master/src/gmail.png?raw=true[gma
 == _Summary_
 [.text-justify]
 
-Tech-Savvy full stack professional with over *5 years* of experience in _banking_, _fintech_, and _crypto_. Adept *software craftsman* coupled with competencies in _designing_ & _developing_ clean, state-of-the-art *cross-platform* software. Passionate about architecture and writing code that reads like well-written prose. *Leading by example*, always up to the challenge. Proficient in __.NET__ and __Angular__, an expert in  __C#__ and __TypeScript__.
+Tech-Savvy full stack professional with *6 years* of experience in _banking_, _fintech_, and _crypto_. Adept *software craftsman* coupled with competencies in _designing_ & _developing_ clean, state-of-the-art *cross-platform* software. Passionate about architecture and writing code that reads like well-written prose. *Leading by example*, always up to the challenge. Proficient in __.NET__ and __Angular__, an expert in  __C#__ and __TypeScript__.
 
 [.text-center]
 === _Proficiencies_
@@ -43,8 +43,8 @@ Tech-Savvy full stack professional with over *5 years* of experience in _banking
 |===
 ^|Company ^|Role ^|Duration
 
-^.^|Klips (*Tel Aviv*) ^.^| *Freelance* .NET/*DevOps* Developer ^.^| 06/22 - Present
-^.^|*Axa* (Paris) ^.^| *Freelance* .NET/*Angular* Developer ^.^| 06/22 - Present
+^.^|Klips (*Tel Aviv*) ^.^| *Freelance* .NET/*DevOps* Developer ^.^| 07/22 - Present
+^.^|*Axa* (Paris) ^.^| *Freelance* .NET/*Angular* Developer ^.^| Seven Months (06/22 - 01/23)
 ^.^|Beenear (Iași) ^.^| Lead *.NET/Angular* Developer ^.^| One Year (07/21 - 06/22)
 ^.^|Enedis (*La Défense*) ^.^| Senior *.NET*/Python Developer ^.^| Two Years (05/19 - 04/21)
 ^.^|*Société Générale* (Paris) ^.^| Middle *.NET/Angular* Developer ^.^| One Year (06/18 - 05/19)

@@ -49,5 +49,7 @@ Primary responsibilities include implementing, creating, and extending a new *de
 ^.^|
 Delivered mission-critical information about *currency & index options* to traders, allowing them to perform frequently occurring tasks such as *full unwinds* and *roll forwards* that reduced manual labor by *one order of magnitude*
 
-Decommissioned *~60%* Global One, a world-wide aggregator responsible for rolling repurchase agreements on outstanding holding positions.
+Decommissioned *~20%* of Global One, a company-wide aggregator responsible for rolling repurchase agreements on outstanding holding positions.
+
+Developed automatic *functional testing* with UFT One to cover critical business processes and reduce manual testing by *~80%*.
 |===
