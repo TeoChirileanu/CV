@@ -1,0 +1,59 @@
+[.text-center]
+=== _Enedis_
+[frame=none]
+[grid=none]
+|===
+^|Summary ^|Technical Environment
+
+^.^|
+_Position_: Backend Developer (*.NET*/Python)
+
+_Company_: Enedis SA (*EDF* Group)
+
+_Industry_: *Electrical Energy* Distribution
+
+_Location_: Le Capitole (Nanterre, France)
+
+_Contract Duration_: 24 months
+
+^.^|
+_Platforms_: Windows 10, Windows Server 2012
+
+_Frameworks_: .NET 4.5
+
+_Languages_: *C#* 6.0, Python 3.5, DPL
+
+_Libraries_: NUnit, *NCrunch*, Parsimonious, Mermaid
+
+_Tools_: Git, VS 2019, *Rider*, PyCharm, PowerFactory 2018, yEd
+|===
+
+[frame=none]
+[grid=none]
+|===
+^|Product Description ^|Project Responsabilities
+
+^.^|
+Enedis _Talon_ is an in-house, *N-Tier* application framework used to compute various *electrotechnical metrics* of the french electrical grid, one of which is calculating the cost of new connections for *end users*.
+
+^.^|
+My team and I were responsible for *developing* and *maintaining* _Talon_, a service enabling other internal teams to create and execute independent *electrotechnical workflows*.
+|===
+
+[%header]
+[frame=none]
+[grid=none]
+|===
+^| Key Achievements
+
+^.^|
+Re-worked one of the _base tiers_, drastically improving the *performance* and *stability* of the system
+
+Developed a *Java* web server acting as a middle-man between the Frontend and the Backend
+
+Wrote a *GUI* (WPF + GoXam) for generating electrical workflows
+
+Created a *code generation* pipeline that takes functional specifications and translates them into _C#_
+
+*Developed* a _Supervisor_ responsible for *monitoring*, *deploying*, and *configuring* modules
+|===

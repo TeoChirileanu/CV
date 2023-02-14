@@ -2,6 +2,6 @@
 
 include::teodor.adoc[]
 
-include::work.adoc[]
+include::work/work.adoc[]
 
 include::misc.adoc[]
