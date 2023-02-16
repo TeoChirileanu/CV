@@ -1,0 +1,59 @@
+[.text-center]
+=== _Itineris_
+[frame=none]
+[grid=none]
+|===
+^|Summary ^|Technical Environment
+
+^.^|
+_Position_: Freelance Fullstack Developer
+
+_Company_: Klips BVBA
+
+_Industry_: Energy Services (*Utilities*)
+
+_Location_: Ghent, *Belgium*
+
+_Contract Duration_: 8 months
+
+^.^|
+_Platforms_: Windows 11, *Azure*, D365, Citrix
+
+_Frameworks_: .NET 7, Angular, Cypress, D365 F&O, RX.NET
+
+_Languages_: C# 11, PowerShell 7.2, TypeScript, SQL, Bicep, ARM
+
+_Libraries_: Resharper, SQL Server, Azure DataLake, EventGrid, Azure Functions
+
+_Tools_: Rider, VS Code, Azure Blob Explorer, Azure DevOps, Azure CLI
+|===
+
+[frame=none]
+[grid=none]
+|===
+^|Product Description ^|Project Responsabilities
+
+^.^|
+Itineris is a technology company that provides software solutions for the *utility industry*, with a focus on customer information systems and *meter data management*. UMAX is Itineris' flagship product, a *customer information* and *billing system* designed specifically for utility companies.
+
+^.^|
+ A *jack-of-all-trades developer*, I was responsible for the development of new features and bug fixes for the UMAX product. I also worked on the *integration* of the UMAX product with other systems, such as the *D365 F&O* ERP system. As a L3 support, I was also responsible for the *troubleshooting* of issues reported customers including FloGas plc and SSE plc while also providing *technical support* to the *CSS project*.
+|===
+
+
+[frame=none]
+[grid=none]
+|===
+^| Key Achievements
+
+^.^|
+As an *Angular developer* working on the CSS project, I improved the accesibility of the platform by implementing *WCAG* standards for people using screen readers
+
+As a *.NET developer* working on the SSE backend project, I wrote bespoke *C# console applications* that were used in *Data Entities* Comparisons and Configuration
+
+As a *Python developer* working on the EVPM solution, I made tools for generating metering data for testing purposes
+
+As a L3 support for UMAX, I fixed a *critical bug* in an Azure Function that caused the *loss of billing data* for customers
+
+As an *Azure developer* working on the FloGas project, I developed a bespoke early warning system based on *Azure Event Grid* and *Azure Functions* that was used to detect and prevent *data loss* during payment traffic surges 
+|===

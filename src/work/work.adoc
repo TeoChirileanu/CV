@@ -1,6 +1,8 @@
 [.text-center]
 == Detailed Work Experience
 
+include::itineris.adoc[]
+
 include::klips.adoc[]
 
 include::axa.adoc[]

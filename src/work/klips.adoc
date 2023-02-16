@@ -6,7 +6,7 @@
 ^|Summary ^|Technical Environment
 
 ^.^|
-_Position_: Freelance Backend Developer (*.NET*)
+_Position_: Freelance Fullstack Developer (*.NET*/React)
 
 _Company_: Klips Ltd.
 
@@ -14,7 +14,7 @@ _Industry_: Financial Services (*Fintech*)
 
 _Location_: Tel Aviv, *Israel*
 
-_Contract Duration_: 6 months
+_Contract Duration_: 8 months
 
 ^.^|
 _Platforms_: Windows 11, *Azure*, Kubernetes, Google Cloud
@@ -47,7 +47,7 @@ Creating an MVP that validates business ideas such as *fiat & crypto* deposits, 
 ^| Key Achievements
 
 ^.^|
-Significant contributions to the CI pipeline, reducing integration issues by a *factor of 5*
+Implemented multiple *Grafana dashboards* to monitor various aspects of the sytem and alert on *critical issues* directly in Jira
 
 Architected & implemented real-time, *sub-millisecond communication* between NATS, Redis, and the React frontend by leveraging *Reactive Programming* principles
 

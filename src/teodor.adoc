@@ -7,13 +7,14 @@
 ^.^a|
 
 ===  _Abstract_
-__Software Professional, Clean Coder, and Merciless Refactorer, in roughly that order.__ +
+__Software Developer, Clean Coder, and Merciless Refactorer,__
+
+__In roughly that order.__
 
 === _Contact_
 
-image:https://github.com/TeoChirileanu/CV/blob/master/src/assets/github.png?raw=true[github, 25] https://github.com/TeoChirileanu 
-
 image:https://github.com/TeoChirileanu/CV/blob/master/src/assets/gmail.png?raw=true[gmail, 25] teodorchirileanu@gmail.com
+image:https://github.com/TeoChirileanu/CV/blob/master/src/assets/whatsapp.png?raw=true[phone, 25] +40 748 333 619
 
 |===
 
@@ -21,7 +22,7 @@ image:https://github.com/TeoChirileanu/CV/blob/master/src/assets/gmail.png?raw=t
 == _Summary_
 [.text-justify]
 
-Tech-Savvy full stack cloud developer with over *6 years* of experience in industries such as _banking_, _fintech_, __energy__ and _crypto_. Adept *software craftsman* coupled with competencies in _designing_ & _developing_ clean, state-of-the-art *cross-platform* software. Passionate about clean code & architecture. I tend to write code that reads like prose. *Love mentoring*, I'm often seen the go-to person. Proficient in __.NET__ and __Angular__ and __Azure__, an expert in  __C#__ and __TypeScript__.
+Tech-Savvy sofware professional with over *6 years* of experience in industries such as _banking_, _fintech_, __energy__ and _crypto_. Adept *software craftsman* coupled with competencies in _designing_ & _developing_ clean, state-of-the-art *cross-platform* software. Passionate about clean code & architecture. I tend to write code that reads like prose. *Love mentoring*, I'm often seen as the go-to person when it comes to __.NET__, __Angular__ and __Azure__.
 
 [.text-center]
 === _Proficiencies_
@@ -30,9 +31,9 @@ Tech-Savvy full stack cloud developer with over *6 years* of experience in indus
 |===
 ^|Languages ^|Frameworks ^|Tools ^|Platforms
 
-^.^|*C#*, *TypeScript*, SQL, PowerShell, *Bicep* (ARM)
-^.^|*.NET*, *Angular*, gRPC, SignalR (WebSockets), *Docker*, NATS
-^.^|*Jira*, *D365 F&O*, *Redis*, MSSQL, MongoDB, *Grafana*
+^.^|*C#*, *TypeScript*, SQL, PowerShell, *Bicep*, Python
+^.^|*.NET*, *Angular*, gRPC, SignalR, RX, *Docker*, NATS
+^.^|MSSQL, *Jira*, *D365 F&O*, *Redis*, MongoDB, *Grafana*
 ^.^|*Windows*, Linux, *Azure*, Google Cloud, *Kubernetes*
 |===
 
@@ -43,8 +44,9 @@ Tech-Savvy full stack cloud developer with over *6 years* of experience in indus
 |===
 ^|Company ^|Role ^|Duration
 
-^.^|Klips (*Tel Aviv*) ^.^| *Freelance* .NET/*DevOps* Developer ^.^| 07/22 - Present
-^.^|*Axa* (Paris) ^.^| *Freelance* .NET/*Angular* Developer ^.^| Seven Months (06/22 - 01/23)
+^.^|Itineris (*Ghent*) ^.^| Freelance Fullstack *Cloud* Developer ^.^| Eight Months (08/22 - 04/23)
+^.^|Klips (*Tel Aviv*) ^.^| *Freelance* .NET/*React* Developer ^.^| Eight Months (07/22 - 03/23)
+^.^|*Axa* (Paris) ^.^| *Freelance* .NET/*Angular* Developer ^.^| Eight Months (06/22 - 02/23)
 ^.^|Beenear (Iași) ^.^| Lead *.NET/Angular* Developer ^.^| One Year (07/21 - 06/22)
 ^.^|Enedis (*La Défense*) ^.^| Senior *.NET*/Python Developer ^.^| Two Years (05/19 - 04/21)
 ^.^|*Société Générale* (Paris) ^.^| Middle *.NET/Angular* Developer ^.^| One Year (06/18 - 05/19)

@@ -6,7 +6,7 @@
 ^|Summary ^|Technical Environment
 
 ^.^|
-_Position_: Freelance Full Stack Developer (*.NET*/Angular)
+_Position_: Freelance Fullstack Developer (*.NET*/Angular)
 
 _Company_: Axa Investment Managers S.A.
 
@@ -14,7 +14,7 @@ _Industry_: Investment Management (*Finance*)
 
 _Location_: Paris, *France*
 
-_Contract Duration_: 6 months
+_Contract Duration_: 8 months
 
 ^.^|
 _Platforms_: Windows 11, *Azure*
