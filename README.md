@@ -1,16 +1,19 @@
 # CV
+clone this repo and cd into it
 
 docker pull asciidoctor/docker-asciidoctor
 
 docker tag asciidoctor/docker-asciidoctor adoc
 
-docker run -it -v C:\Users\teodo\Documents\GitHub\CV:/documents/ adoc
+docker run -it -v $PWD:/documents/ adoc
 
 exit
 
 docker ps -a
 
-docker rename inspiring_borg adoc
+docker rename $CONTAINER_ID adoc
+
+open repo in vscode
 
 docker start adoc
 
