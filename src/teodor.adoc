@@ -3,7 +3,7 @@
 [%autowidth.stretch]
 |===
 | |
-^.^a|image:https://github.com/TeoChirileanu/CV/blob/master/src/assets/alt-profile.png?raw=true[teodor, 300]
+^.^a|image:https://github.com/TeoChirileanu/CV/blob/master/src/assets/ai-profile.jpg?raw=true[teodor, 200]
 ^.^a|
 
 ===  _Abstract_
@@ -44,13 +44,15 @@ Tech-Savvy sofware professional with over *6 years* of experience in industries 
 |===
 ^|Company ^|Role ^|Duration
 
-^.^|Itineris (*Ghent*) ^.^| Freelance Fullstack *Cloud* Developer ^.^| Eight Months (08/22 - 04/23)
-^.^|Klips (*Tel Aviv*) ^.^| *Freelance* .NET/*React* Developer ^.^| Eight Months (07/22 - 03/23)
-^.^|*Axa* (Paris) ^.^| *Freelance* .NET/*Angular* Developer ^.^| Eight Months (06/22 - 02/23)
-^.^|Beenear (Iași) ^.^| Lead *.NET/Angular* Developer ^.^| One Year (07/21 - 06/22)
-^.^|Enedis (*La Défense*) ^.^| Senior *.NET*/Python Developer ^.^| Two Years (05/19 - 04/21)
-^.^|*Société Générale* (Paris) ^.^| Middle *.NET/Angular* Developer ^.^| One Year (06/18 - 05/19)
-^.^|Tricentis (*Vienna*) ^.^| Junior *.NET/Angular* Developer ^.^| One Year (06/17 - 05/18)
+^.^|ING Group (Netherlands) ^.^| Backend Developer ^.^| May 2023 - Present
+^.^|GlobalLogic (USA) ^.^| Tech Lead ^.^| April 2023 - June 2023
+^.^|Itineris (Belgium) ^.^| Freelance Fullstack *Cloud* Developer ^.^| November 2022 - Present
+^.^|Klips (Israel) ^.^| *Freelance* .NET/*React* Developer ^.^| August 2022 - March 2023
+^.^|*Axa* (France) ^.^| *Freelance* .NET/*Angular* Developer ^.^| July 2022 - February 2023
+^.^|Beenear (Romania) ^.^| Lead *.NET/Angular* Developer ^.^| June 2021 - June 2022
+^.^|Enedis (France) ^.^| Senior *.NET*/Python Developer ^.^| May 2019 - February 2021
+^.^|*Société Générale* (France) ^.^| Middle *.NET/Angular* Developer ^.^| June 2018 - April 2019
+^.^|Tricentis (Austria) ^.^| Junior *.NET/Angular* Developer ^.^|  December 2017 - May 2018
 |===
 
 [.text-center]
