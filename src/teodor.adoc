@@ -3,7 +3,7 @@
 [%autowidth.stretch]
 |===
 | |
-^.^a|image:assets/ai-profile.jpg[teodor, 200]
+^.^a|image:https://github.com/TeoChirileanu/CV/blob/master/src/assets/ai-profile.jpg?raw=true[teodor, 200]
 ^.^a|
 
 ===  _Abstract_
@@ -14,7 +14,6 @@ __In roughly that order.__
 === _Contact_
 
 image:https://github.com/TeoChirileanu/CV/blob/master/src/assets/gmail.png?raw=true[gmail, 25] teodorchirileanu@gmail.com
-image:https://github.com/TeoChirileanu/CV/blob/master/src/assets/whatsapp.png?raw=true[phone, 25] +40 748 333 619
 
 |===
 
@@ -22,7 +21,7 @@ image:https://github.com/TeoChirileanu/CV/blob/master/src/assets/whatsapp.png?ra
 == _Summary_
 [.text-justify]
 
-Tech-Savvy sofware professional with over *6 years* of experience in industries such as _banking_, _fintech_, __energy__ and _crypto_. Adept *software craftsman* coupled with competencies in _designing_ & _developing_ clean, state-of-the-art *cross-platform* software. Passionate about clean code & architecture. I tend to write code that reads like prose. *Love mentoring*, I'm often seen as the go-to person when it comes to __.NET__, __Angular__ and __Azure__.
+Tech-Savvy sofware professional with *10 years* of experience in industries such as _banking_, _fintech_, __energy__ and _crypto_. Adept *software craftsman* coupled with competencies in _designing_ & _developing_ clean, state-of-the-art *cross-platform* software. Passionate about clean code & architecture. I tend to write code that reads like prose. *Love mentoring*, I'm often seen as the go-to person when it comes to __.NET__, __Angular__ and __Azure__.
 
 [.text-center]
 === _Proficiencies_
@@ -31,10 +30,10 @@ Tech-Savvy sofware professional with over *6 years* of experience in industries 
 |===
 ^|Languages ^|Frameworks ^|Tools ^|Platforms
 
-^.^|*C#*, *TypeScript*, SQL, PowerShell, *Bicep*, Python
-^.^|*.NET*, *Angular*, gRPC, SignalR, RX, *Docker*, NATS
-^.^|MSSQL, *Jira*, *D365 F&O*, *Redis*, MongoDB, *Grafana*
-^.^|*Windows*, Linux, *Azure*, Google Cloud, *Kubernetes*
+^.^|C#, TypeScript, SQL, PowerShell, Bicep, Python
+^.^|.NET, Angular, gRPC, SignalR, RX, NATS
+^.^|MSSQL, Jira, D365 F&O, Redis, MongoDB, Grafana
+^.^|Windows, Docker, Azure, Kubernetes
 |===
 
 [.text-center]
@@ -44,15 +43,17 @@ Tech-Savvy sofware professional with over *6 years* of experience in industries 
 |===
 ^|Company ^|Role ^|Duration
 
-^.^|ING Group (Netherlands) ^.^| Backend Developer ^.^| May 2023 - Present
-^.^|GlobalLogic (USA) ^.^| Tech Lead ^.^| April 2023 - June 2023
-^.^|Itineris (Belgium) ^.^| Freelance Fullstack *Cloud* Developer ^.^| November 2022 - Present
-^.^|Klips (Israel) ^.^| *Freelance* .NET/*React* Developer ^.^| August 2022 - March 2023
-^.^|*Axa* (France) ^.^| *Freelance* .NET/*Angular* Developer ^.^| July 2022 - February 2023
-^.^|Beenear (Romania) ^.^| Lead *.NET/Angular* Developer ^.^| June 2021 - June 2022
-^.^|Enedis (France) ^.^| Senior *.NET*/Python Developer ^.^| May 2019 - February 2021
-^.^|*Société Générale* (France) ^.^| Middle *.NET/Angular* Developer ^.^| June 2018 - April 2019
-^.^|Tricentis (Austria) ^.^| Junior *.NET/Angular* Developer ^.^|  December 2017 - May 2018
+^.^|ING Group (Netherlands) ^.^| Senior Backend Developer ^.^| May 2023 - Present
+^.^|American Express (USA) ^.^| Senior Fullstack Developer ^.^| April 2023 - Present
+^.^|GlobalLogic (USA) ^.^| Software Tech Lead ^.^| April 2023 - June 2023
+^.^|Itineris (Belgium) ^.^| Senior Cloud Developer ^.^| November 2022 - Present
+^.^|Klips (Israel) ^.^| Senior Backend Developer ^.^| August 2022 - March 2023
+^.^|Axa (France) ^.^| Senior Fullstack Developer ^.^| July 2022 - February 2023
+^.^|Beenear (Romania) ^.^| Software Team Lead ^.^| June 2021 - June 2022
+^.^|Scratch Foundation (USA) ^.^| Scratch Developer ^.^| February 2021 - June 2021
+^.^|Enedis (France) ^.^| Backend Developer ^.^| May 2019 - January 2021
+^.^|Société Générale* (France) ^.^| Backend Developer ^.^| June 2018 - April 2019
+^.^|Tricentis (Austria) ^.^| Fullstack Developer ^.^|  December 2017 - May 2018
 |===
 
 [.text-center]
@@ -63,8 +64,9 @@ Tech-Savvy sofware professional with over *6 years* of experience in industries 
 ^|Education ^|Certifications
 
 ^.^a|
-Clean Code: *Architecture & Design* Masters Class +
-*Uncle Bob* Consulting LLC (*2022*)
+Advanced *TDD & Refactoring* Masters Class (*2024*)
+
+*Architecture & Design* Masters Class (*2022*)
 
 *Bachelor* of Computer Science (*2017*)
 
@@ -73,9 +75,9 @@ Bilingual *Baccalaureate* Diploma (*2014*)
 ^.^| 
 Certified *TypeScript* Developer - 2022
 
-*Front* End Developer (W3Schools) - 2021 +
+*Front* End Developer (W3Schools) - 2021
 
-Programming in *C#* - __Top 5%__ (*Microsoft*) - 2020 +
+Programming in *C#* - __Top 5%__ (*Microsoft*) - 2020
 
 Professional *Scrum* Developer (Agile Alliance) - 2019
 |===
