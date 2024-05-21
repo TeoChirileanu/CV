@@ -1,43 +1,7 @@
-[frame=none]
-[grid=none]
-[%autowidth.stretch]
-|===
-| |
-^.^a|image:https://github.com/TeoChirileanu/CV/blob/master/src/assets/ai-profile.jpg?raw=true[teodor, 200]
-^.^a|
-
-===  _Abstract_
-__Software Developer, Clean Coder, and Merciless Refactorer,__
-
-__In roughly that order.__
-
-=== _Contact_
-
-image:https://github.com/TeoChirileanu/CV/blob/master/src/assets/gmail.png?raw=true[gmail, 25] teodorchirileanu@gmail.com
-
-|===
+include::header.adoc[]
 
 [.text-center]
-== _Summary_
-[.text-justify]
-
-Tech-Savvy sofware professional with *10 years* of experience in industries such as _banking_, _fintech_, __energy__ and _crypto_. Adept *software craftsman* coupled with competencies in _designing_ & _developing_ clean, state-of-the-art *cross-platform* software. Passionate about clean code & architecture. I tend to write code that reads like prose. *Love mentoring*, I'm often seen as the go-to person when it comes to __.NET__, __Angular__ and __Azure__.
-
-[.text-center]
-=== _Proficiencies_
-[frame=none]
-[grid=none]
-|===
-^|Languages ^|Frameworks ^|Tools ^|Platforms
-
-^.^|C#, TypeScript, SQL, PowerShell, Bicep, Python
-^.^|.NET, Angular, gRPC, SignalR, RX, NATS
-^.^|MSSQL, Jira, D365 F&O, Redis, MongoDB, Grafana
-^.^|Windows, Docker, Azure, Kubernetes
-|===
-
-[.text-center]
-=== _Experience_
+== _Experience_
 [frame=none]
 [grid=none]
 |===

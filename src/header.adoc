@@ -1,0 +1,24 @@
+:icons: font
+:icon-set: fas
+
+[frame=none]
+[grid=none]
+[%autowidth.stretch]
+|===
+| |
+^.^a|image:https://github.com/TeoChirileanu/CV/blob/master/src/assets/ai-profile.jpg?raw=true[teodor, 600]
+^.^a|
+
+[.text-center]
+===  _Abstract_
+__Professional Software Developer with a *Decade* of Expertise in *.NET*, *Angular*, and *Azure* __
+
+[.text-center]
+=== _Summary_
+With hands-on experience in critical industries like *banking* and *energy*, I write *clean code* that reads like well-written prose using *TDD* and Simple Design, allowing me to provide immediate *business value* while reducing *technical debt*.
+
+[.text-center]
+=== _Proficiencies_
+*C#*, .NET, Angular, *Blazor*, SQL, PS, VB, Azure, Docker, *Redis*, Kubernetes, Grafana, *Playwright*
+
+|===
