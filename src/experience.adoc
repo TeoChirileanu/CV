@@ -1,0 +1,19 @@
+[.text-center]
+== _Experience_
+[frame=none]
+[grid=none]
+|===
+^|Company ^|Role ^|Duration
+
+^.^|ING Group (Netherlands) ^.^| Senior Backend Developer ^.^| May 2023 - Present
+^.^|American Express (USA) ^.^| Senior Fullstack Developer ^.^| April 2023 - Present
+^.^|GlobalLogic (USA) ^.^| Software Tech Lead ^.^| April 2023 - June 2023
+^.^|Itineris (Belgium) ^.^| Senior Cloud Developer ^.^| November 2022 - Present
+^.^|Klips (Israel) ^.^| Senior Backend Developer ^.^| August 2022 - March 2023
+^.^|Axa (France) ^.^| Senior Fullstack Developer ^.^| July 2022 - February 2023
+^.^|Beenear (Romania) ^.^| Software Team Lead ^.^| June 2021 - June 2022
+^.^|Scratch Foundation (USA) ^.^| Scratch Developer ^.^| February 2021 - June 2021
+^.^|Enedis (France) ^.^| Backend Developer ^.^| May 2019 - January 2021
+^.^|Société Générale* (France) ^.^| Backend Developer ^.^| June 2018 - April 2019
+^.^|Tricentis (Austria) ^.^| Fullstack Developer ^.^|  December 2017 - May 2018
+|===
