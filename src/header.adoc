@@ -1,8 +1,7 @@
 :icons: font
 :icon-set: fas
 
-[frame=none]
-[grid=none]
+[frame=none, grid=none]
 [%autowidth.stretch]
 |===
 | |

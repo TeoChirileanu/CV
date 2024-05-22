@@ -1,29 +1,3 @@
 include::header.adoc[]
 
 include::experience.adoc[]
-
-[.text-center]
-=== _Training and Education_
-[frame=none]
-[grid=none]
-|===
-^|Education ^|Certifications
-
-^.^a|
-Advanced *TDD & Refactoring* Masters Class (*2024*)
-
-*Architecture & Design* Masters Class (*2022*)
-
-*Bachelor* of Computer Science (*2017*)
-
-Bilingual *Baccalaureate* Diploma (*2014*)
-
-^.^| 
-Certified *TypeScript* Developer - 2022
-
-*Front* End Developer (W3Schools) - 2021
-
-Programming in *C#* - __Top 5%__ (*Microsoft*) - 2020
-
-Professional *Scrum* Developer (Agile Alliance) - 2019
-|===

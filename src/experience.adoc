@@ -1,19 +1,26 @@
-[.text-center]
-== _Experience_
-[frame=none]
-[grid=none]
+[.text-center] 
+== _Experience & Training_
+[frame = none, grid = none, cols = "^.^a, ^.^a", stripes = odd]
 |===
-^|Company ^|Role ^|Duration
 
-^.^|ING Group (Netherlands) ^.^| Senior Backend Developer ^.^| May 2023 - Present
-^.^|American Express (USA) ^.^| Senior Fullstack Developer ^.^| April 2023 - Present
-^.^|GlobalLogic (USA) ^.^| Software Tech Lead ^.^| April 2023 - June 2023
-^.^|Itineris (Belgium) ^.^| Senior Cloud Developer ^.^| November 2022 - Present
-^.^|Klips (Israel) ^.^| Senior Backend Developer ^.^| August 2022 - March 2023
-^.^|Axa (France) ^.^| Senior Fullstack Developer ^.^| July 2022 - February 2023
-^.^|Beenear (Romania) ^.^| Software Team Lead ^.^| June 2021 - June 2022
-^.^|Scratch Foundation (USA) ^.^| Scratch Developer ^.^| February 2021 - June 2021
-^.^|Enedis (France) ^.^| Backend Developer ^.^| May 2019 - January 2021
-^.^|Société Générale* (France) ^.^| Backend Developer ^.^| June 2018 - April 2019
-^.^|Tricentis (Austria) ^.^| Fullstack Developer ^.^|  December 2017 - May 2018
+| Backend Developer @  *ING* | *TDD* & Refactoring Masters Class @ *Uncle Bob*
+| Fullstack Developer @ *Amex* | *Architecture* & Design Masters Class @ *Uncle Bob*
+| *Tech Lead* @ GlobalLogic | Bachelor of *Computer Science* @ UAIC
+| *Cloud* Developer @ Itineris | *French* Baccalaureate Diploma @ CNME
+| *Fintech* Developer @ Klips | *Business* Ecosystem Partner @ Baza7
+| Fullstack Developer @ *Axa IM* | Certified *TypeScript* Developer @ W3Schools
+| *Team Lead* @ Beenear | Certified *Frontend* Developer @ W3Schools
+| Backend Developer @ *Enedis* | *Expert C#* Developer @ *Microsoft*
+| Backend Developer @ *SG CIB* | Professional *Scrum* Developer @ Agile Alliance
+| *Fullstack* Developer @ Tricentis | Certified *SQL* Developer @ W3Schools
+
+// [frame=none, grid=none]
+// [cols="1a"]
+// !===
+// !
+
+// ! Col1
+
+// !===
+
 |===
