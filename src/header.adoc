@@ -1,6 +1,3 @@
-:icons: font
-:icon-set: fas
-
 [frame=none, grid=none]
 [%autowidth.stretch]
 |===
@@ -16,7 +13,7 @@ __Professional Software Developer with a *Decade* of Expertise in *.NET*, *Angul
 === _Summary_
 With hands-on experience in _critical industries_ like *banking* and *energy*, 
 I write *clean code* that reads like _well-written prose_ using *TDD* and _Simple Design_, 
-allowing me to provide _immediate_ *business value* while reducing *technical debt*.
+allowing me to provide _immediate_ *business value* in addition to reducing bad *technical debt*.
 
 [.text-center]
 === _Proficiencies_

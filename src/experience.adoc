@@ -1,26 +1,43 @@
 [.text-center] 
 == _Experience & Training_
-[frame = none, grid = none, cols = "^.^a, ^.^a", stripes = odd]
+[frame = none, grid = none, cols = "^.^a, ^.^a", stripes = odd, orientation = landscape]
 |===
 
-| Backend Developer @  *ING* | *TDD* & Refactoring Masters Class @ *Uncle Bob*
-| Fullstack Developer @ *Amex* | *Architecture* & Design Masters Class @ *Uncle Bob*
-| *Tech Lead* @ GlobalLogic | Bachelor of *Computer Science* @ UAIC
-| *Cloud* Developer @ Itineris | *French* Baccalaureate Diploma @ CNME
-| *Fintech* Developer @ Klips | *Business* Ecosystem Partner @ Baza7
-| Fullstack Developer @ *Axa IM* | Certified *TypeScript* Developer @ W3Schools
-| *Team Lead* @ Beenear | Certified *Frontend* Developer @ W3Schools
-| Backend Developer @ *Enedis* | *Expert C#* Developer @ *Microsoft*
-| Backend Developer @ *SG CIB* | Professional *Scrum* Developer @ Agile Alliance
-| *Fullstack* Developer @ Tricentis | Certified *SQL* Developer @ W3Schools
+| [frame = none, grid = none, cols = "^.^a"]
+!===
+! _Experience_
 
-// [frame=none, grid=none]
-// [cols="1a"]
-// !===
-// !
+! Fullstack Developer @ *Amex*
+! *Tech Lead* @ GlobalLogic
 
-// ! Col1
+!===
 
-// !===
+
+| [frame = none, grid = none, cols = "^.^a"]
+[%rotate]
+!===
+! Education
+
+! *Business* Ecosystem Programme @ Baza7
+! *Business* Ecosystem Programme @ Baza7
+
+!===
+
+
+| [frame = none, grid = none, cols = "^.^a"]
+!===
+// ! _Experience_
+
+! Fullstack Developer @ *Amex*
+! *Tech Lead* @ GlobalLogic
+
+!===
+| [frame = none, grid = none, cols = "^.^a"]
+!===
+! Certifications
+
+! *Expert C#* Developer @ *Microsoft*
+
+!===
 
 |===
