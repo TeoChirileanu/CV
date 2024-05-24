@@ -1,42 +1,90 @@
-[.text-center] 
+[.text-center]
 == _Experience & Training_
-[frame = none, grid = none, cols = "^.^a, ^.^a", stripes = odd, orientation = landscape]
+
+[frame = none, grid = none, stripes = all]
 |===
+| |
 
-| [frame = none, grid = none, cols = "^.^a"]
-!===
-! _Experience_
+^.^a| 
 
-! Fullstack Developer @ *Amex*
-! *Tech Lead* @ GlobalLogic
-
+*Cloud Development*
+[frame = none, grid = none, cols = "^.^a"]
 !===
 
-
-| [frame = none, grid = none, cols = "^.^a"]
-[%rotate]
-!===
-! Education
-
-! *Business* Ecosystem Programme @ Baza7
-! *Business* Ecosystem Programme @ Baza7
+! Senior _.NET & Azure_ *Banking* Developer @ *_ING_*
+! Senior _.NET & Azure_ *Renewables* Developer @ SSE
+! _Azure DevOps_ *Energy/LPG* Developer @ Flogas
 
 !===
 
-
-| [frame = none, grid = none, cols = "^.^a"]
+*Fullstack Development*
+[frame = none, grid = none, cols = "^.^a"]
 !===
-// ! _Experience_
 
-! Fullstack Developer @ *Amex*
-! *Tech Lead* @ GlobalLogic
+! Senior _.NET & Blazor_ *Payments* Developer @ *_Amex_*
+! Senior _.NET & Angular_ *Derivatives* Developer @ *_Axa-IM_*
+! Middle _.NET & Angular_ *Automation* Developer @ Tricentis
 
 !===
-| [frame = none, grid = none, cols = "^.^a"]
-!===
-! Certifications
 
-! *Expert C#* Developer @ *Microsoft*
+*Backend Development*
+[frame = none, grid = none, cols = "^.^a"]
+!=== 
+
+! Senior _.NET/Crypto_ *Fintech* Developer @ Klips
+! _Python/.NET_ *Energy/Distribution* Developer @ Enedis
+! Middle _.NET_ *Banking/Liquidity* Developer @ *_SG-CIB_*
+
+!===
+
+*Tech Management*
+[frame = none, grid = none, cols = "^.^a"]
+!===
+
+! _Hardware Virtualization_ *Tech Lead* @ GlobalLogic
+! _Accounting & CRM_ *Team Lead* @ Beenear
+! Certified _Scratch_ *Team Trainer* @ Cartea Daliei
+
+!===
+
+^.^a|
+
+*Courses*
+[frame = none, grid = none, cols = "^.^a"]
+!===
+
+! _Architecture & Design_ Class @ *Uncle Bob*
+! _Advanced TDD & Refactoring_ Class @ *Uncle Bob*
+! _Clean Code & TDD_ Class @ *Uncle Bob*
+
+!===
+
+*Education*
+[frame = none, grid = none, cols = "^.^a"]
+!===
+
+! *Business* Ecosystem Partner @ Baza7
+! Bachelor of *Computer Science* @ UAIC
+! *French Baccalaureate* Diploma @ CNME
+
+!===
+
+*Certifications*
+[frame = none, grid = none, cols = "^.^a"]
+!===
+
+! Expert *C#* Developer @ _Microsoft_
+! Certified *Frontend* Developer @ W3Schools
+! Professional *Scrum* Developer @ Agile Alliance
+! Professional *Redis* Developer @ Redis Labs
+
+!===
+
+*Favorite Books*
+[frame = none, grid = none, cols = "^.^a"]
+!===
+
+! *C#* in Depth, *Extreme* Programming Explained, *Clean* Code & Architecture, *Refactoring*, Domain Driven *Design*, Design Patterns, The *Pragmatic* Programmer, *Soft* Skills
 
 !===
 
