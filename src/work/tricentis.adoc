@@ -1,57 +1,48 @@
 [.text-center]
-=== _Tricentis_
-[frame=none]
-[grid=none]
+== Middle Fullstack Automation Developer (.NET/Angular)
+
+[frame = none, grid = none, stripes = all]
 |===
-^|Summary ^|Technical Environment
+| |
 
-^.^|
-_Position_: Full Stack Developer (.NET/*Angular*)
+^a|
 
-_Company_: Tricentis GmbH
+*Technical Environment*
+[frame = none, grid = none, cols = "^.^a"]
+!===
 
-_Industry_: Software as as Service (*SaaS*)
+! *Languages*: C#, TypeScript, JavaScript, HTML, CSS, SQL
 
-_Location_: Vienna International Center (*Vienna*, Austria)
+! *Frameworks*: .NET, Angular, Entity Framework, ASP.NET Core, RESTful APIs
 
-_Contract Duration_: 12 months
+! *Tools*: Visual Studio/Code, TortoiseSVN, Git, Auth0, Robo 3T, Postman, Jira, Confluence, Azure DevOps
 
-^.^|
-_Platforms_: Windows 10, *Azure*
+!===
 
-_Frameworks_: .NET 4.7, *ASP .NET*, Angular 6
+*Product Description*
+[frame = none, grid = none, cols = "^.^a"]
+!===
 
-_Languages_: C# 7.2, *TypeScript* 2.9
+! *Business*: Tricentis Tosca empowers businesses to achieve faster, higher quality software releases at a lower cost. Its codeless approach and AI-powered risk-based testing streamline the testing process, increasing efficiency and reducing time-to-market
 
-_Libraries_: NUnit, Moq, Resharper, SQL Server, *MongoDB*
+! *Technical*: Tricentis Tosca's model-based test automation and broad technology support enable the creation of reusable and scalable test cases. This significantly reduces maintenance efforts and allows for efficient testing of diverse applications, from GUI and API to mobile and SAP
 
-_Tools_: SVN, Visual Studio/Code, *Robo 3T* SQL Server
-|===
+!===
 
-[frame=none]
-[grid=none]
-|===
-^|Product Description ^|Project Responsabilities
+^a|
 
-^.^|
-Tricentis *Tosca* is a software solution that is geared towards *automating*  application *testing*.
+*Key Achievements*
+[frame = none, grid = none, cols = "^.^a"]
+!===
 
-^.^|
-Breaking down the monolithic architecture into *microservices*. Migrating from SVN to *Git*. Building *CI & CD* pipelines.
-|===
+! *Led modernization efforts*: Spearheaded the decomposition of a monolithic architecture into microservices, resulting in a significant 50%+ performance improvement. This directly translated to enhanced user experience and operational cost savings.
 
+! *Introduced valuable features*: Implemented user management and profile editing functionalities in the Cloud Portal, addressing key user needs and increasing platform usability.
 
-[frame=none]
-[grid=none]
-|===
-^| Key Achievements
+! *Prioritized stability and user experience*: Proactively implemented health check mechanisms for microservices, ensuring system reliability and minimizing downtime. Streamlined authentication processes with configurable Auth0 token storage for improved user experience.
 
-^.^|
-Improved the overall application performance by *over 50%* thanks to the decommissioning of the service bus
+! *Established foundation for future growth*: Migrated codebase to Git and built CI/CD pipelines, fostering a more efficient and collaborative development environment for future enhancements and releases.
 
-Added two new *features* to the Cloud Portal 1) User & Project Management 2) User Profile Editor
+!===
 
-Implemented *health check* mechanisms to the microservices to improve system resiliency
-
-Increased the ease of use of the application by adding an essential application setting: configurable *Auth0 token* storage
 |===

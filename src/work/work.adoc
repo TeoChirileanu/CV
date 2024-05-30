@@ -1,16 +1,19 @@
-[.text-center]
-== Detailed Work Experience
+// include::ing.adoc[]
 
-include::itineris.adoc[]
+// include::paragon.adoc[]
 
-include::klips.adoc[]
+// include::itineris.adoc[]
 
-include::axa.adoc[]
+// include::klips.adoc[]
 
-include::beenear.adoc[]
+// include::axa.adoc[]
 
-include::enedis.adoc[]
+// include::beenear.adoc[]
 
-include::socgen.adoc[]
+// include::cartea_daliei.adoc[]
+
+// include::enedis.adoc[]
+
+// include::socgen.adoc[]
 
 include::tricentis.adoc[]

@@ -41,13 +41,13 @@
 [frame = none, grid = none, cols = "^.^a"]
 !===
 
-! _Hardware Virtualization_ *Tech Lead* @ GlobalLogic
+! _Hardware Virtualization_ *Tech Lead* @ Global Logic
 ! _Accounting & CRM_ *Team Lead* @ Beenear
 ! Certified _Scratch_ *Team Trainer* @ Cartea Daliei
 
 !===
 
-^.^a|
+^.a|
 
 *Courses*
 [frame = none, grid = none, cols = "^.^a"]

@@ -1,3 +1,0 @@
-include::header.adoc[]
-
-include::experience.adoc[]

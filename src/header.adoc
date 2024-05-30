@@ -2,7 +2,11 @@
 [%autowidth.stretch]
 |===
 | |
-^.^a|image:https://github.com/TeoChirileanu/CV/blob/master/src/assets/ai-profile.jpg?raw=true[teodor, 500]
+
+^.^a|
+
+image:https://github.com/TeoChirileanu/CV/blob/master/src/assets/ai-profile.jpg?raw=true[teodor, 500]
+
 ^.^a|
 
 [.text-center]
