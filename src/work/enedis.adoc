@@ -1,59 +1,50 @@
 [.text-center]
-=== _Enedis_
-[frame=none]
-[grid=none]
+== Backend Energy Developer @ Électricité de France - Enedis (France)
+
+[frame = none, grid = none, stripes = all]
 |===
-^|Summary ^|Technical Environment
+| |
 
-^.^|
-_Position_: Backend Developer (*.NET*/Python)
+^a|
 
-_Company_: Enedis SA (*EDF* Group)
+*Technical Environment*
+[frame = none, grid = none, cols = "^.^a"]
+!===
 
-_Industry_: *Electrical Energy* Distribution
+! *Languages*: C#, Python, Javascript, Mermaid, DPL
 
-_Location_: Le Capitole (Nanterre, France)
+! *Frameworks*: .NET, Parsimonious, ASP.NET, SSIS, Specflow, ZeroMQ, NInject
 
-_Contract Duration_: 24 months
+! *Tools*: Git, Rider, Pycharm, yEd, GoJS, PowerFactory
 
-^.^|
-_Platforms_: Windows 10, Windows Server 2012
+!===
 
-_Frameworks_: .NET 4.5
+*Product Description*
+[frame = none, grid = none, cols = "^.^a"]
+!===
 
-_Languages_: *C#* 6.0, Python 3.5, DPL
+! *Business*: Enedis Talon is a powerful internal tool designed to optimize the management of France's electrical grid. It empowers Enedis to efficiently calculate crucial electrotechnical metrics, including the cost of new connections for customers. 
 
-_Libraries_: NUnit, *NCrunch*, Parsimonious, Mermaid
+! *Technical*: Enedis Talon is an N-Tier application framework that leverages advanced algorithms to compute a range of electrotechnical metrics for the French electrical grid. Key functionalities include calculating the cost of new connections (raccordements) for end users, providing Enedis with accurate cost estimations
 
-_Tools_: Git, VS 2019, *Rider*, PyCharm, PowerFactory 2018, yEd
-|===
+!===
 
-[frame=none]
-[grid=none]
-|===
-^|Product Description ^|Project Responsabilities
+^a|
 
-^.^|
-Enedis _Talon_ is an in-house, *N-Tier* application framework used to compute various *electrotechnical metrics* of the french electrical grid, one of which is calculating the cost of new connections for *end users*.
+*Key Achievements*
+[frame = none, grid = none, cols = "^.^a"]
+!===
 
-^.^|
-My team and I were responsible for *developing* and *maintaining* _Talon_, a service enabling other internal teams to create and execute independent *electrotechnical workflows*.
-|===
+! *Base Tier Rework*: Re-engineered a core tier within Talon, significantly enhancing the system's overall performance, stability, and responsiveness
 
-[%header]
-[frame=none]
-[grid=none]
-|===
-^| Key Achievements
+! *Java Web Server Development*: Developed a Java-based web server to seamlessly bridge communication between the front-end and back-end components of Talon, enabling smooth data flow and user interactions.
 
-^.^|
-Re-worked one of the _base tiers_, drastically improving the *performance* and *stability* of the system
+! *GUI Development for Workflow Generation*: Designed and implemented a user-friendly GUI using WPF and GoXam, simplifying the process of creating and visualizing complex electrical workflows for non-technical users.
 
-Developed a *Java* web server acting as a middle-man between the Frontend and the Backend
+! *Code Generation Pipeline*: Created an innovative code generation pipeline capable of translating functional specifications directly into C# code, drastically accelerating development cycles.
 
-Wrote a *GUI* (WPF + GoXam) for generating electrical workflows
+! *Supervisor Development*: Built a sophisticated Supervisor module to autonomously monitor, deploy, and configure Talon modules, ensuring optimal system health.
 
-Created a *code generation* pipeline that takes functional specifications and translates them into _C#_
+!===
 
-*Developed* a _Supervisor_ responsible for *monitoring*, *deploying*, and *configuring* modules
 |===

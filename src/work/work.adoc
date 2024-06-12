@@ -12,7 +12,7 @@
 
 // include::cartea_daliei.adoc[]
 
-// include::enedis.adoc[]
+include::enedis.adoc[]
 
 include::socgen.adoc[]
 
