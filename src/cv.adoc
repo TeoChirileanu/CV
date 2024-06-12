@@ -1,8 +1,8 @@
 :nofooter:
 
-// include::header.adoc[]
+include::header.adoc[]
 
-// include::experience.adoc[]
+include::experience.adoc[]
 
 include::work/work.adoc[]
 

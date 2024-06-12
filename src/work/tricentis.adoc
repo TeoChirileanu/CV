@@ -1,5 +1,5 @@
 [.text-center]
-== Middle Fullstack Automation Developer (.NET/Angular)
+== Fullstack Automation Developer @ Tricentis (Austria)
 
 [frame = none, grid = none, stripes = all]
 |===

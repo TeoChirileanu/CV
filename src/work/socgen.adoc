@@ -1,58 +1,52 @@
 [.text-center]
-=== _Société Générale_
-[frame=none]
-[grid=none]
+== Backend Liquidity Developer @ Société Générale - Corporate & Investment Banking (France)
+
+[frame = none, grid = none, stripes = all]
 |===
-^|Summary ^|Technical Environment
+| |
 
-^.^|
-_Position_: Full Stack Developer (*.NET*/Angular)
+^a|
 
-_Company_: Société Générale Corporate & *Investment* Banking
+*Technical Environment*
+[frame = none, grid = none, cols = "^.^a"]
+!===
 
-_Industry_: *Banking*
+! *Languages*: C#, SQL, PowerShell, Gherkin
 
-_Location_: Tours Société Générale (*La Défense*, France)
+! *Frameworks*: .NET, ADO, ASP.NET, SSIS, Specflow, ZeroMQ, NInject
 
-_Contract Duration_: 12 months
+! *Tools*: Visual Studio/Code, Git, SMSS, TeamCity, XL Deploy
 
-^.^|
-_Platforms_: Windows 7/10, *Windows Server* 2016
+!===
 
-_Frameworks_: .NET 4.5, SQL Server Integration Services
+*Product Description*
+[frame = none, grid = none, cols = "^.^a"]
+!===
 
-_Languages_: C# 5.0, *PowerShell* 5.1, T-SQL
+! *Business*: Liqor is a cutting-edge solution designed to streamline liquidity reporting for financial institutions. By automating the calculation of complex metrics and generating compliant reports for the BDF and BCE, Liqor significantly reduces the time and resources traditionally required for these tasks.
 
-_Libraries_: NInject, NCrunch, ZeroMQ, *Specflow*
+! *Technical*: Liqor is an internal financial application developed to automate liquidity reporting. It utilizes a sophisticated algorithm to calculate various liquidity metrics based on real-time financial data. The application also features a report generation module capable of producing customized reports in accordance with BDF and BCE requirements.
 
-_Tools_: Git, Vs 2019 & Code, SSMS, *TeamCity*, XL Deploy
-|===
+!===
 
-[frame=none]
-[grid=none]
-|===
-^|Product Description ^|Project Responsabilities
+^a|
 
-^.^|
-Liqor is an internal *financial application* responsible for computing various _liquidity metrics_ and generating afferent _reports_ demanded by the BDF (_Bank of France_) and the BCE (_European Central Bank_).
+*Key Achievements*
+[frame = none, grid = none, cols = "^.^a"]
+!===
 
-^.^|
-I was part of the team responsible for *monitoring* the *production* environment. Moreover, I worked on implementing *new liquidity metrics* (_Basel III_), and *rewriting SSIS scripts*.
-|===
+! *Production Monitoring*: Ensured stability and performance of Liqor's production environment, proactively identifying and resolving issues to minimize downtime.
 
-[frame=none]
-[grid=none]
-|===
-^| Key Achievements
+! *Basel III Implementation*: Successfully integrated new liquidity metrics required by Basel III regulations, ensuring compliance and contributing to accurate risk assessment.
 
-^.^|
-Wrote a custom _XML parser_ that reduced *threefold* the time required to integrate a custom _data source_
+! *SSIS Script Optimization*: Rewrote and optimized critical SSIS scripts, achieving a 35% performance improvement and reducing processing time.
 
-*Rewrote and optimized* two critical _SSIS scripts_, improving performance by over *35%*
+! *XML Parser Development*: Developed a custom XML parser that reduced data integration time for a new data source by threefold, accelerating development cycles.
 
-*Redesigned the CI pipeline* while _TeamCity 2008_ to _2018_, improving performance by almost *one order of magnitude*
+! *CI Pipeline Redesign*: Redesigned and upgraded the CI pipeline from TeamCity 2008 to 2018, resulting in a near tenfold performance improvement and streamlined deployment processes.
 
-_Designed and implemented_ the *CD pipeline* leading the minimal human input during the deployment process 
+! *Mentorship*: Actively mentored junior team members
 
-*Taught and mentored* my newcomers on coding practices, software development, and architectural processes
+!===
+
 |===
