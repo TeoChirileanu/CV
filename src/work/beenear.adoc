@@ -1,60 +1,50 @@
 [.text-center]
-=== _Beenear_
-[frame=none]
-[grid=none]
+== Accounting & CRM Team Lead @ Beenear (Romania)
+
+[frame = none, grid = none, stripes = all]
 |===
-^|Summary ^|Technical Environment
+| |
 
-^.^|
-_Position_: Lead Developer (*.NET*/Angular)
+^a|
 
-_Company_: Beenear SRL (*Var* Group)
+*Technical Environment*
+[frame = none, grid = none, cols = "^.^a"]
+!===
 
-_Industry_: *Software Services* 
+! *Languages*: C#, TypeScript
 
-_Location_: Iasi, Romania
+! *Frameworks*: .NET, Angular, mojoPortal
 
-_Contract Duration_: 12 months
+! *Tools*: Visual Studio, SQL Server, DataGrip, WebStorm, Autofac, Moq
 
-^.^|
-_Platforms_: *Windows* 11, Azure Cloud
+!===
 
-_Frameworks_: *.NET* 6, Angular 13
+*Product Description*
+[frame = none, grid = none, cols = "^.^a"]
+!===
 
-_Languages_: *C#* 10, TypeScript 4.6
+! *Business*: _OpenFinance_ is Italy's leading accounting software, empowering businesses to streamline financial operations & make informed decisions. _EasyOne_ is an industry-leading CRM solution widely used across the Iberian peninsula, enabling businesses to build stronger customer relationships.
 
-_Libraries_: *Resharper*, Moq, Mojo Portal, Autofac
+! *Technical*:  OpenFinance leverages a modern frameworks to deliver a responsive, scalable, and secure accounting platform. EasyOne is built on a solid GUI core and has been strategically refactored into a microservices architecture, enhancing its flexibility & maintainability
 
-_Tools_: Git, VS 2022, DataGrip, WebStorm, *Azure DevOps*
-|===
+!===
 
-[frame=none]
-[grid=none]
-|===
-^|Product Description ^|Project Responsabilities
+^a|
 
-^.^|
-OpenFinance is the leading and one of Italy's most *popular accounting* tools.
+*Key Achievements*
+[frame = none, grid = none, cols = "^.^a"]
+!===
 
-EasyOne is an *industry-leading CRM* used by thousands of customers across the Iberian peninsula.
+! Led the *successful migration* of the legacy OpenGate accounting software from Microsoft WebForms to Angular 12, modernizing the technology stack and significantly improving performance.
 
-^.^|
-Responsible for *migrating* the legacy accounting software OpenGate from Microsoft WebForms to Angular 12. +
+! Spearheaded the *refactoring* of EasyOneCrm, a monolithic WPF application, into a microservices architecture, enhancing scalability, flexibility, and maintainability.
 
-In charge of maintaining EasyOneCrm, a WPF application, along with the task of refactoring it to *microservices*.
+! Increased OpenGate's performance *threefold* by rewriting two critical components in Angular, resulting in a significantly faster and more responsive user experience.
 
-|===
+! *Mentored and guided* a team of five developers, including one middle developer, three juniors, and one intern, fostering their growth and development.
 
-[%header]
-[frame=none]
-[grid=none]
-|===
-^| Key Achievements
+! Reduced login *loading time by 7x* through innovative re-architecting, dramatically improving user access and satisfaction.
 
-^.^|
-Increased the performance of OpenGate *threefold* by rewriting two critical components in Angular
+!===
 
-*Mentored* one middle developer, three juniors, and one intern
-
-Reduced loading time by *7x* by re-architecture-ing the Login process
 |===
