@@ -1,55 +1,48 @@
 [.text-center]
-=== _Axa_
-[frame=none]
-[grid=none]
+== Fullstack Derivatives Developer @ AXA Investment Managers (France)
+
+[frame = none, grid = none, stripes = all]
 |===
-^|Summary ^|Technical Environment
+| |
 
-^.^|
-_Position_: Freelance Fullstack Developer (*.NET*/Angular)
+^a|
 
-_Company_: Axa Investment Managers S.A.
+*Technical Environment*
+[frame = none, grid = none, cols = "^.^a"]
+!===
 
-_Industry_: Investment Management (*Finance*)
+! *Languages*: C#, TypeScript, JavaScript
 
-_Location_: Paris, *France*
+! *Frameworks*: .NET, Angular, Cypress
 
-_Contract Duration_: 8 months
+! *Tools*: Rider, SQL Server, WebStorm, SimCorp Dimension, UFT One
 
-^.^|
-_Platforms_: Windows 11, *Azure*
+!===
 
-_Frameworks_: .NET Core 3.1, *Angular 13*
+*Project Description*
+[frame = none, grid = none, cols = "^.^a"]
+!===
 
-_Languages_: C# 11, TypeScript 4.8
+! *Business*: As the investment arm of AXA Group, a world leader in financial protection and wealth management, AXA IM is committed to responsible investing, integrating environmental, social, and governance (ESG) factors into its investment processes.
 
-_Libraries_: Resharper, SQL Server
+! *Technical*:  The technical environment consists of a mix of .NET and Angular technologies, with a focus on delivering a responsive, scalable, and secure platform for managing derivatives investments. The platform leverages the SimCorp Dimension system for core portfolio management functionality and utilizes SQL for efficient data operations.
 
-_Tools_: WebStorm, Rider, GitKraken, *SimCorp*
-|===
+!===
 
-[frame=none]
-[grid=none]
-|===
-^|Product Description ^|Project Responsabilities
+^a|
 
-^.^|
-As responsible *investor*, business, and employer, Axa Investment Managers actively invests for the long term so clients, people, and communities can move forward.
+*Key Achievements*
+[frame = none, grid = none, cols = "^.^a"]
+!===
 
-^.^|
-Primary responsibilities include implementing, creating, and extending a new *derivated credit pricing* along all necessary models.
-|===
+! *Derivatives Pricing Innovation*: Spearheaded the implementation, creation, and extension of a new derivatives credit pricing system, complete with all necessary financial models, enhancing the firm's ability to accurately price complex credit instruments.
 
+! *Trader Empowerment Through Automation*: Delivered mission-critical information about currency & index options directly to traders, enabling automated execution of full unwinds and roll forwards, reducing manual labor by a factor of 10.
 
-[frame=none]
-[grid=none]
-|===
-^| Key Achievements
+! *Legacy System Decommissioning*: Successfully decommissioned approximately 20% of Global One, a company-wide legacy system responsible for repurchase agreement management.
 
-^.^|
-Delivered mission-critical information about *currency & index options* to traders, allowing them to perform frequently occurring tasks such as *full unwinds* and *roll forwards* that reduced manual labor by *one order of magnitude*
+! *Automated Functional Testing Implementation*: Developed a comprehensive suite of automated functional tests using UFT One, covering critical business processes and reducing manual testing efforts by approximately 80%.
 
-Decommissioned *~20%* of Global One, a company-wide aggregator responsible for rolling repurchase agreements on outstanding holding positions.
+!===
 
-Developed automatic *functional testing* with UFT One to cover critical business processes and reduce manual testing by *~80%*.
 |===
