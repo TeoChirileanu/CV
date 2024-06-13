@@ -1,0 +1,52 @@
+[.text-center]
+== Certified Scratch Developer @ Cartea Daliei (Romania)
+
+[frame = none, grid = none, stripes = all]
+|===
+| |
+
+^a|
+
+*Technical Environment*
+[frame = none, grid = none, cols = "^.^a"]
+!===
+
+! *Languages*: Scratch, Python 
+
+! *Frameworks*: Pybricks
+
+! *Tools*: Lego Mindstorms
+
+!===
+
+*Product Description*
+[frame = none, grid = none, cols = "^.^a"]
+!===
+
+! *Business*: Carte Daliei is a non-profit organization aimed at promoting STEM education among children in Romania. The Scratch Developer certification program is designed to equip educators with the necessary skills to teach coding and robotics to young students.
+
+! *Technical*: The courses presented at Cartea Daliei focus on teaching Scratch programming language and Python, as well as using Pybricks to program Lego Mindstorms robots. The program aims to foster creativity, logical thinking, and problem-solving skills in children through hands-on coding projects.
+
+!===
+
+^a|
+
+*Key Achievements*
+[frame = none, grid = none, cols = "^.^a"]
+!===
+
+! *Empowered children* to create their own interactive games and stories using Scratch 3.0, fostering creativity and logical thinking.
+
+! Introduced young learners to *text-based coding* with Python (Pybricks), guiding them to program virtual and physical robots.
+
+! Led hands-on projects with *LEGO Mindstorms*, where students built and programmed robots, developing problem-solving skills and engineering concepts.
+
+! Implemented a project-based curriculum to *teach coding fundamentals* like events, loops, and variables.
+
+! *Instructed students* in Python syntax and Pybricks API to control motors, sensors, and create robotic behaviors.
+
+! Facilitated the use of LEGO Mindstorms EV3 *software and hardware* to explore robotics and mechanical engineering concepts.
+
+!===
+
+|===
