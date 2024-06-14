@@ -1,55 +1,48 @@
 [.text-center]
-=== _Klips_
-[frame=none]
-[grid=none]
+== Senior Fintech Developer @ Klips (Israel)
+
+[frame = none, grid = none, stripes = all]
 |===
-^|Summary ^|Technical Environment
+| |
 
-^.^|
-_Position_: Freelance Fullstack Developer (*.NET*/React)
+^a|
 
-_Company_: Klips Ltd.
+*Technical Environment*
+[frame = none, grid = none, cols = "^.^a"]
+!===
 
-_Industry_: Financial Services (*Fintech*)
+! *Languages*: C#, Powershell, JavaScript
 
-_Location_: Tel Aviv, *Israel*
+! *Frameworks*: .NET, Google Cloud
 
-_Contract Duration_: 8 months
+! *Tools*: Rider, Redis, NATS, Docker, Kubernetes, MongoDB, Graphana, Prometheus, SignalR
 
-^.^|
-_Platforms_: Windows 11, *Azure*, Kubernetes, Google Cloud
+!===
 
-_Frameworks_: .NET 7, *NATS*, Docker, Redis
+*Project Description*
+[frame = none, grid = none, cols = "^.^a"]
+!===
 
-_Languages_: C# 11, PowerShell 7.2
+! *Business*: Klips is a fast-growing fintech company revolutionizing the financial industry with its next-generation Financial Hub. This unified platform offers a comprehensive suite of services including CFD trading, digital banking, shares dealing, payments, and CRM.
 
-_Libraries_: Resharper, SQL Server, *MongoDB*
+! *Technical*:  At Klips, the innovation team created an MVP for a cryptocurrency wallet using a modern technology stack including .NET, SignalR, NATS, Redis, React Native, and NoSQL databases. This platform integrated with multiple liquidity providers, enabling essential features like deposits, swaps, and withdrawals.
 
-_Tools_: DataGrip, Rider, GitKraken, Lens, *Kubernetes*
-|===
+!===
 
-[frame=none]
-[grid=none]
-|===
-^|Product Description ^|Project Responsabilities
+^a|
 
-^.^|
-Klips is a one-stop-financial hub and fast-growing innovative *Fintech* company, creator of next-generation Financial Hub including Crypto, Trading, Digital banking facilities, Shares dealing, using *cutting-edge technologies*.
+*Key Achievements*
+[frame = none, grid = none, cols = "^.^a"]
+!===
 
-^.^|
-Creating an MVP that validates business ideas such as *fiat & crypto* deposits, swaps, and withdrawals using modern technologies like Redis Backplane, Nats JetStreams, *Minimal APIs*, and WebSockets.
-|===
+! *MVP Delivery & Business Validation*: Participated in the creation of a minimum viable product (MVP) for a cryptocurrency wallet, validating core business ideas like fiat and crypto deposits, swaps, and withdrawals.
 
+! *Real-Time Monitoring & Alerting*: Implemented comprehensive Grafana dashboards to monitor critical system metrics, enabling proactive issue detection and resolution by triggering automated alerts within Jira.
 
-[frame=none]
-[grid=none]
-|===
-^| Key Achievements
+! *Sub-Millisecond Communication Architecture*: Architected and implemented a real-time communication layer between Liquitidy Providers and the  React frontend, leveraging Reactive Programming principles to achieve sub-millisecond response times.
 
-^.^|
-Implemented multiple *Grafana dashboards* to monitor various aspects of the sytem and alert on *critical issues* directly in Jira
+! *Real-Time Crypto Quotations via WebSockets*: Implemented WebSocket technology to deliver live crypto quotations directly to the mobile wallet page, enhancing user experience and enabling real-time decision-making.
 
-Architected & implemented real-time, *sub-millisecond communication* between NATS, Redis, and the React frontend by leveraging *Reactive Programming* principles
+!===
 
-Redesigned the *Crypto Wallet* component to be mobile-first using best web development practices
 |===
