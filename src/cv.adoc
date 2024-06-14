@@ -6,4 +6,4 @@ include::experience.adoc[]
 
 include::work/work.adoc[]
 
-// include::misc.adoc[]
+include::misc.adoc[]

@@ -2,15 +2,19 @@
 
 // include::paragon.adoc[]
 
-// include::itineris.adoc[]
+// include ::global_logic.adoc[]
 
-// include::klips.adoc[]
+include::flogas.adoc[]
 
-// include::axa.adoc[]
+include::sse.adoc[]
 
-// include::beenear.adoc[]
+include::klips.adoc[]
 
-// include::cartea_daliei.adoc[]
+include::axa.adoc[]
+
+include::beenear.adoc[]
+
+include::cartea_daliei.adoc[]
 
 include::enedis.adoc[]
 
