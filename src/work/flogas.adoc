@@ -1,0 +1,50 @@
+[.text-center]
+== Senior Cloud Engineer @ Flogas (Ireland)
+
+[frame = none, grid = none, stripes = all]
+|===
+| |
+
+^a|
+
+*Technical Environment*
+[frame = none, grid = none, cols = "^.^a"]
+!===
+
+! *Languages*: C#, Bicep, Json, Powershell, Python
+
+! *Frameworks*: .NET, Azure Cloud, ARM Templates
+
+! *Tools*: VS Code, Azure DevOps, CyberArk, Citrix
+
+!===
+
+*Project Description*
+[frame = none, grid = none, cols = "^.^a"]
+!===
+
+! *Business*: Flogas is a leading energy supplier specializing in Liquefied Petroleum Gas (LPG) and other energy solutions. They serve a wide range of customers, from residential to commercial and industrial, across the UK and Ireland.
+
+! *Technical*: Flogas utilizes Azure's cloud infrastructure to manage energy consumption data, primarily for Liquefied Petroleum Gas (LPG). Secure File Transfer Protocols (SFTP) facilitate the collection of raw meter data from customer sites. The system processes this data through a series of technical operations, including tariff/pricing calculations, to ensure accurate billing. 
+
+!===
+
+^a|
+
+*Key Achievements*
+[frame = none, grid = none, cols = "^.^a"]
+!===
+
+! *Reliable Infrastructure as Code*: Successfully implemented and maintained an IaC approach using Bicep, enabling consistent and repeatable deployments with minimal downtime.
+
+! *Optimized Data Processing*: Significantly improved the performance and scalability of Databricks jobs handling large volumes of metering data, enhancing Flogas' ability to process and analyze customer usage data efficiently.
+
+! *Modernized Azure Infrastructure*: Led the migration of Azure Functions to .NET 8 and ASEv3, improving performance, security, and scalability of the platform.
+
+! *Enhanced Monitoring & Alerting*: Implemented proactive monitoring and alerting for the pricing machine function, minimizing disruptions and ensuring accurate pricing calculations.
+
+! *Improved Knowledge Sharing*: Created detailed technical documentation to facilitate knowledge transfer.
+
+!===
+
+|===

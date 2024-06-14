@@ -1,5 +1,5 @@
 [.text-center]
-== Backend Liquidity Developer @ Société Générale - Corporate & Investment Banking (France)
+== Banking/Liquidity Developer @ Société Générale - Corporate & Investment Banking (France)
 
 [frame = none, grid = none, stripes = all]
 |===
