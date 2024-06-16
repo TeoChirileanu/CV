@@ -1,6 +1,6 @@
 // include::ing.adoc[]
 
-// include::paragon.adoc[]
+include::amex.adoc[]
 
 include::global_logic.adoc[]
 

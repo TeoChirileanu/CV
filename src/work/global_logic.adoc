@@ -35,7 +35,7 @@
 [frame = none, grid = none, cols = "^.^a"]
 !===
 
-! *Led the development of an abstracted, testable system for a complete automated car wash process*: Coordinated a team to create a comprehensive virtualized environment simulating the entire car wash operation, enabling thorough testing and validation of software components.
+! *Led the development of an abstracted, testable system*: Coordinated a team to create a comprehensive virtualized environment simulating the entire car wash operation, enabling thorough testing and validation of software components.
 
 ! *Implemented clean code and test-driven development (TDD) practices*: Ensured high-quality codebase, emphasizing maintainability, readability, and testability. This approach facilitated decoupling hardware implementations from software abstractions, resulting in a flexible and resilient system.
 
