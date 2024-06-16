@@ -1,0 +1,40 @@
+[.text-center]
+== Senior Backend Banking Developer @ ING Bank (Romania)
+
+[frame = none, grid = none, stripes = all]
+|===
+| |
+
+^a|
+
+*Technical Environment*
+[frame = none, grid = none, cols = "^.^a"]
+!===
+
+! *Languages*:
+
+! *Frameworks*: 
+
+! *Tools*: 
+
+!===
+
+*Project Description*
+[frame = none, grid = none, cols = "^.^a"]
+!===
+
+! *Business*: 
+
+! *Technical*: 
+
+!===
+
+^a|
+
+*Key Achievements*
+[frame = none, grid = none, cols = "^.^a"]
+!===
+
+!===
+
+|===
