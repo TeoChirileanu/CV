@@ -2,7 +2,7 @@
 
 // include::paragon.adoc[]
 
-// include ::global_logic.adoc[]
+include::global_logic.adoc[]
 
 include::flogas.adoc[]
 
