@@ -1,19 +1,4 @@
 [.text-center]
-=== Miscellanea
-
-[.text-center]
-==== _Life_
-Born and organically grown in *Iasi* (Romania) (1995 - 2017)
-
-Took life to the next level in *Wyoming* (USA) (2016)
-
-Reached new heights in *Vienna* (Austria) (2017 - 2018) 
-
-Achieved enlightenment in *Paris* (France) (2018 - 2021) 
-
-*Spreading the light* back home (2021 - present)
-
-[.text-center]
-==== _What do others say about me?_
+=== _What do others say about me?_
 "Teodor is a passionate young man, carrying the Carpathian profundity in his heart. His interests are widespread and go beyond his profession. As you say: passion does not spread thin - so great level of energy which he brings to each and every task he works on. Keep on going, Teo!"
 -- Wolfgang Platz, Founder & CTO @ Tricentis

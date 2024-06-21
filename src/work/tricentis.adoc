@@ -13,9 +13,9 @@
 
 ! *Languages*: C#, TypeScript, JavaScript, HTML, CSS, SQL
 
-! *Frameworks*: .NET, Angular, Entity Framework, ASP.NET Core, RESTful APIs
+! *Frameworks*: .NET, Angular, Entity Framework, ASP.NET Core
 
-! *Tools*: Visual Studio/Code, TortoiseSVN, Git, Auth0, Robo 3T, Postman, Jira, Confluence, Azure DevOps
+! *Tools*: TortoiseSVN, Git, Auth0, Robo 3T, Postman, Jira, Azure DevOps
 
 !===
 
@@ -25,7 +25,7 @@
 
 ! *Business*: Tricentis Tosca empowers businesses to achieve faster, higher quality software releases at a lower cost. Its codeless approach and AI-powered risk-based testing streamline the testing process, increasing efficiency and reducing time-to-market
 
-! *Technical*: Tricentis Tosca's model-based test automation and broad technology support enable the creation of reusable and scalable test cases. This significantly reduces maintenance efforts and allows for efficient testing of diverse applications, from GUI and API to mobile and SAP
+! *Technical*: Tricentis Tosca's model-based test automation and broad technology support enable the creation of reusable and scalable test cases. This significantly reduces maintenance efforts and allows for efficient testing of diverse applications, from GUI to mobile.
 
 !===
 

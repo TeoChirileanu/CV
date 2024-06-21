@@ -11,11 +11,11 @@
 [frame = none, grid = none, cols = "^.^a"]
 !===
 
-! *Languages*:
+! *Languages*: C#, VB, SQL, JSON, JavaScript
 
-! *Frameworks*: 
+! *Frameworks*: .NET, WCF, Arm Templates
 
-! *Tools*: 
+! *Tools*: Grafana, ELK Stack, NUnit, Azure DevOps, K6
 
 !===
 
@@ -23,9 +23,9 @@
 [frame = none, grid = none, cols = "^.^a"]
 !===
 
-! *Business*: 
+! *Business*: ING Bank Romania is a leading financial institution and a subsidiary of ING Group, a global banking and financial services corporation. Established in 1994, ING Bank Romania offers a wide range of products and services to individuals, small and medium-sized enterprises, and large corporations. 
 
-! *Technical*: 
+! *Technical*: Within the _BPM Core team_ at ING Bank Romania, I played a crucial role in developing and maintaining the _essential runtime platform_ that powered all internal enterprise applications. This platform, built on an n-tier architecture and utilizing plug-n-play modules, supported a diverse range of _mission-critical business applications_, including business lending, leads management, business banking, and card issuing. The platform seamlessly integrated with various _frontend applications_, such as FABO, NARC, and Homebank, through a robust and well-defined API. My responsibilities encompassed collaborating with _cross-functional teams_ to ensure the platform's stability, performance, and scalability, while actively supporting these business-critical processes. This involved a _deep understanding_ of the underlying technologies, problem-solving complex technical challenges, and optimizing the platform for _optimal performance and resilience_.
 
 !===
 
@@ -34,6 +34,18 @@
 *Key Achievements*
 [frame = none, grid = none, cols = "^.^a"]
 !===
+
+! *User Session Statelessness*:  Successfully migrated user session storage from an in-memory model to Redis. This significantly enhanced the fault tolerance and scalability of applications across the entire machine cluster.
+
+! *K6 Performance Testing*: Introduced and integrated k6 for robust regression and performance testing. This allowed for thorough assessment of application behavior under load, identifying bottlenecks and areas for optimization.
+
+! *L3 Production Support*:  Provided comprehensive L3 production support, acting as a liaison between business analysts, configurators, and external stakeholders.  This involved troubleshooting complex issues, analyzing logs, and communicating solutions effectively to all parties involved.
+
+! *Enhanced Health Checks*:  Implemented and extended health checks to encompass all core service dependencies. This included monitoring vital databases and external assemblies developed by other teams, ensuring proactive identification and resolution of potential problems.
+
+! *Led the successful upgrade to .NET 8* across multiple enterprise applications. This upgrade resulted in measurable performance improvements and ensured seamless compatibility with the latest Microsoft technologies.
+
+! *Sustainability Initiative*: Championed the adoption of QR code-based business cards for front-office banking officers. This initiative aimed to reduce paper waste, decrease costs, and align with the bank's sustainability goal
 
 !===
 
