@@ -1,0 +1,40 @@
+[.text-center]
+== Quant Developer @ Lykke (Switzerland)
+
+[frame = none, grid = none, stripes = all]
+|===
+| |
+
+^a|
+
+[.big.underline]#*Technical Environment*#
+[frame = none, grid = none, cols = "^.^a"]
+!===
+
+! *Languages*: 
+
+! *Frameworks*: 
+
+! *Tools*: 
+
+!===
+
+[.big.underline]#*Project Description*#
+[frame = none, grid = none, cols = "^.^a"]
+!===
+
+! *Business*: 
+
+! *Technical*:  
+
+!===
+
+^a|
+
+[.big.underline]#*Key Achievements*#
+[frame = none, grid = none, cols = "^.^a"]
+!===
+
+!===
+
+|===

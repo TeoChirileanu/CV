@@ -7,7 +7,7 @@
 
 ^a|
 
-*Technical Environment*
+[.big.underline]#*Technical Environment*#
 [frame = none, grid = none, cols = "^.^a"]
 !===
 
@@ -19,7 +19,7 @@
 
 !===
 
-*Product Description*
+[.big.underline]#*Product Description*#
 [frame = none, grid = none, cols = "^.^a"]
 !===
 
@@ -31,7 +31,7 @@
 
 ^a|
 
-*Key Achievements*
+[.big.underline]#*Key Achievements*#
 [frame = none, grid = none, cols = "^.^a"]
 !===
 

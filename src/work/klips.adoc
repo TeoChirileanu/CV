@@ -1,5 +1,5 @@
 [.text-center]
-== Senior Fintech Developer @ Klips (Israel)
+== Exchange Engineer @ Klips (Israel)
 
 [frame = none, grid = none, stripes = all]
 |===
@@ -7,11 +7,11 @@
 
 ^a|
 
-*Technical Environment*
+[.big.underline]#*Technical Environment*#
 [frame = none, grid = none, cols = "^.^a"]
 !===
 
-! *Languages*: C#, Powershell, JavaScript
+! *Languages*: C#, PowerShell, JavaScript
 
 ! *Frameworks*: .NET, Google Cloud
 
@@ -19,19 +19,19 @@
 
 !===
 
-*Project Description*
+[.big.underline]#*Project Description*#
 [frame = none, grid = none, cols = "^.^a"]
 !===
 
-! *Business*: Klips is a fast-growing fintech company revolutionizing the financial industry with its next-generation Financial Hub. This unified platform offers a comprehensive suite of services including CFD trading, digital banking, shares dealing, payments, and CRM.
+! *Business*: A fast-growing fintech company revolutionizing the financial industry with its next-generation Financial Hub. This unified platform offers a comprehensive suite of services including CFD trading, digital banking, shares dealing, payments, and CRM.
 
-! *Technical*:  At Klips, the innovation team created an MVP for a cryptocurrency wallet using a modern technology stack including .NET, SignalR, NATS, Redis, React Native, and NoSQL databases. This platform integrated with multiple liquidity providers, enabling essential features like deposits, swaps, and withdrawals.
+! *Technical*:  At Klips, the innovation team created an MVP for a cryptocurrency wallet using a modern technology stack including .NET, SignalR, NATS, Redis, React and NoSQL databases. This platform integrated with multiple liquidity providers, enabling essential features like deposits, swaps, and withdrawals.
 
 !===
 
 ^a|
 
-*Key Achievements*
+[.big.underline]#*Key Achievements*#
 [frame = none, grid = none, cols = "^.^a"]
 !===
 

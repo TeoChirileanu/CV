@@ -1,5 +1,5 @@
 [.text-center]
-== Senior Fullstack Payments Developer @ American Express (United States)
+== Payments Engineer @ American Express (United States)
 
 [frame = none, grid = none, stripes = all]
 |===
@@ -7,7 +7,7 @@
 
 ^a|
 
-*Technical Environment*
+[.big.underline]#*Technical Environment*#
 [frame = none, grid = none, cols = "^.^a"]
 !===
 
@@ -19,11 +19,11 @@
 
 !===
 
-*Project Description*
+[.big.underline]#*Project Description*#
 [frame = none, grid = none, cols = "^.^a"]
 !===
 
-! *Business*: American Express is a global integrated payments company, providing customers with access to products, insights, and experiences that enrich lives and build business success. They offer a range of financial products and services, including credit and charge cards, merchant acquisition and processing, network services, travel, and insurance. American Express is known for its premium brand and strong customer loyalty.
+! *Business*: A global integrated payments company, providing customers with access to products, insights, and experiences that enrich lives and build business success, Amex offers a range of financial products and services, including credit and charge cards, merchant acquisition and processing, network services, travel, and insurance.
 
 ! *Technical*: Contributed to the development and integration of key payment products such as WebFASTest, vATM, and NGS (a payment certification tool). Leveraged expertise in C# on .NET, Razor on Blazor, SQL databases, and Azure Cloud to ensure seamless functionality and integration of these products within the existing payment infrastructure. This work involved extensive collaboration with cross-functional teams and adherence to rigorous industry standards for payment processing and certification.
 
@@ -31,7 +31,7 @@
 
 ^a|
 
-*Key Achievements*
+[.big.underline]#*Key Achievements*#
 [frame = none, grid = none, cols = "^.^a"]
 !===
 

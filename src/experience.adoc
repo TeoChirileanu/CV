@@ -12,7 +12,7 @@
 !===
 
 ! Quant Developer with _.NET, Python & AWS_ @ *_Lykke_*
-! Exchange Engineer with _.NET, React & AWS_ @ *_Klips_*
+! Exchange Engineer with _.NET, React & GCP_ @ *_Klips_*
 
 !===
 
