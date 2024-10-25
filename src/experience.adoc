@@ -7,49 +7,49 @@
 
 ^.^a| 
 
-*Cloud Development*
+[.big.underline]#*Crypto*#
 [frame = none, grid = none, cols = "^.^a"]
 !===
 
-! Senior _.NET & Azure_ *Banking* Developer @ *_ING_*
-! Senior _.NET & Azure_ *Renewables* Developer @ SSE
-! Senior _Cloud_ *Energy/LPG* Engineer @ Flogas
+! Quant Developer with _.NET, Python & AWS_ @ *_Lykke_*
+! Exchange Engineer with _.NET, React & AWS_ @ *_Klips_*
 
 !===
 
-*Fullstack Development*
+[.big.underline]#*Financial*#
 [frame = none, grid = none, cols = "^.^a"]
 !===
 
-! Senior _.NET & Blazor_ *Payments* Developer @ *_Amex_*
-! Senior _.NET & Angular_ *Derivatives* Developer @ *_Axa-IM_*
-! Middle _.NET & Angular_ *Automation* Developer @ Tricentis
+! Banking Programmer with _VB, .NET, & Azure_ @ *_ING_*
+! Payments Engineer with _.NET, Blazor & Azure_ @ *_Amex_*
+! Derivatives Developer with _.NET, Angular & Azure_ @ *_Axa_*
+! Liquidity Analyst with _PS, .NET & SQL_ @ *_SocGen_*
 
 !===
 
-*Backend Development*
+[.big.underline]#*Energy*#
 [frame = none, grid = none, cols = "^.^a"]
 !=== 
 
-! Senior _.NET/Crypto_ *Fintech* Developer @ Klips
-! _Python/.NET_ *Energy/Distribution* Developer @ Enedis
-! Middle _.NET_ *Banking/Liquidity* Developer @ *_SG-CIB_*
+! Renewables Developer with _.NET, PS & Azure_ @ *_SSE_*
+! LPG Engineer with _.NET, Bicep & Azure_ @ *_Flogas_*
+! Distribution Coder with _C++, .NET & Python_ @ *_Enedis_*
 
 !===
 
-*Tech Management*
+[.big.underline]#*Other*#
 [frame = none, grid = none, cols = "^.^a"]
 !===
 
-! _Hardware Virtualization_ *Tech Lead* @ Global Logic
-! _Accounting & CRM_ *Team Lead* @ Beenear
-! Certified _Scratch_ *Team Trainer* @ Cartea Daliei
+! Automation Coder with _.NET, Angular & Azure_ @ *_Tricentis_*
+! Hardware Virtualization _Tech Lead_  @ *_Global Logic_*
+! Accounting & CRM _Team Lead_ @ *_Beenear_*
 
 !===
 
 ^.a|
 
-*Courses*
+[.big.underline]#*Courses*#
 [frame = none, grid = none, cols = "^.^a"]
 !===
 
@@ -59,7 +59,7 @@
 
 !===
 
-*Education*
+[.big.underline]#*Education*#
 [frame = none, grid = none, cols = "^.^a"]
 !===
 
@@ -69,7 +69,7 @@
 
 !===
 
-*Certifications*
+[.big.underline]#*Certifications*#
 [frame = none, grid = none, cols = "^.^a"]
 !===
 
@@ -80,7 +80,7 @@
 
 !===
 
-*Favorite Books*
+[.big.underline]#*Favorite Books*#
 [frame = none, grid = none, cols = "^.^a"]
 !===
 

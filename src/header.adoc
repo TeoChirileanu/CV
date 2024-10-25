@@ -11,16 +11,14 @@ image:https://github.com/TeoChirileanu/CV/blob/master/src/assets/ai-profile.jpg?
 
 [.text-center]
 ===  _Abstract_
-__Professional Software Developer with a *Decade* of Expertise in *.NET*, *Angular* & *Azure* __
+_Software Professional_ with over a *decade* of expertise in providing [.underline]#top-of-the-line# *solutions*
 
 [.text-center]
 === _Summary_
-With hands-on experience in _critical industries_ like *banking* and *energy*, 
-I write *clean code* that reads like _well-written prose_ using *TDD* and _Simple Design_, 
-allowing me to provide _immediate_ *business value* in addition to reducing bad *technical debt*.
+An [.underline]#A-lister# with hands-on experience in critical industries such as *crypto exchanges*, *financial services* and *energy distribution*, I leverage _Clean Code, AI & Simple Design_ to significantly improve *time to market* while reducing costs by handling *technical debt*.
 
 [.text-center]
 === _Proficiencies_
-*C#*, _.NET_, Angular, *Blazor*, SQL, _PS_, _VB_, *Azure*, _Docker_, *Redis*, _Grafana_, *Playwright*
+_.NET/C#_, _Angular/TS_, _Blazor_, Python, SQL, _PS_, _VB_, AWS, Azure, _K8S/Docker_, Redis, Playwright
 
 |===
