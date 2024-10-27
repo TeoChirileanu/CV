@@ -11,7 +11,7 @@
 [frame = none, grid = none, cols = "^.^a"]
 !===
 
-! *Languages*: C#, VB, SQL, JSON, JavaScript
+! *Languages*: C#, VB, SQL, JavaScript
 
 ! *Frameworks*: .NET, WCF, Arm Templates
 
