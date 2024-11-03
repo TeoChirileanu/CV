@@ -74,9 +74,9 @@
 !===
 
 ! Expert *C#* Developer @ _Microsoft_
+! Validated Azure Expert @ _Microsoft_
 ! Certified *Frontend* Developer @ W3Schools
 ! Professional *Scrum* Developer @ Agile Alliance
-! Professional *Redis* Developer @ Redis Labs
 
 !===
 

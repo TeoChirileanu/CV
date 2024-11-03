@@ -1,4 +1,11 @@
 [.text-center]
 === _What do others say about me?_
+"Teodor is a very valuable addition to our team. He demonstrated a exceptional depth of technical expertise and worked very efficiently and fast.
+He is a pleasure to work with, both professionally and personally.
+Looking forward to his continued growth and the positive impact he will undoubtedly have on Lykke's projects."
+-- Richard Olsen, Founder & CEO @ Lykke
+
+[.text-center]
+=== _What do others say about me?_
 "Teodor is a passionate young man, carrying the Carpathian profundity in his heart. His interests are widespread and go beyond his profession. As you say: passion does not spread thin - so great level of energy which he brings to each and every task he works on. Keep on going, Teo!"
 -- Wolfgang Platz, Founder & CTO @ Tricentis
