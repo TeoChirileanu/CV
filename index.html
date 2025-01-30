@@ -1,25 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
+  <meta charset="UTF-8">
   <title>My CV</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-    /* Optional: make the PDF take up the full screen width/height */
     html, body {
       margin: 0;
       padding: 0;
       height: 100%;
     }
-    embed {
-      display: block;
+    iframe {
       width: 100%;
-      height: 100vh; /* Adjust if you want a different height */
+      height: 100%;
       border: none;
     }
   </style>
 </head>
 <body>
-  <!-- The 'embed' tag will load the PDF directly in browsers that support it -->
-  <embed src="CV.pdf" type="application/pdf" />
+  <!-- Replace 'YOUR_URL' below with the direct link to your CV.pdf -->
+  <iframe 
+  src="https://docs.google.com/viewer?url=https://drive.google.com/uc?id=1ByC-rudGrRkUqm6vzGepBAVHklJ-7Gvl&export=download&embedded=true">
+  </iframe>
 </body>
 </html>
