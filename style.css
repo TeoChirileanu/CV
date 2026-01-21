@@ -1,0 +1,234 @@
+:root {
+    --primary-font: 'Arial', sans-serif;
+    --body-font: 'Times New Roman', Times, serif;
+    --summary-font: 'Arial', 'Helvetica', sans-serif;
+    --text-color: #000;
+    --header-font-size: 13pt;
+    --body-font-size: 10pt;
+    /* Match PDF compactness */
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    font-family: var(--body-font);
+    color: var(--text-color);
+    line-height: 1.1;
+}
+
+.page {
+    width: 210mm;
+    min-height: 297mm;
+    padding: 10mm 12mm;
+    /* Consistent page margin */
+    margin: 10px auto;
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    display: flex;
+    gap: 15px;
+    align-items: flex-start;
+    padding: 0;
+    /* No extra padding */
+}
+
+.profile-image {
+    width: 150px;
+    flex-shrink: 0;
+}
+
+.profile-image img {
+    width: 100%;
+    display: block;
+}
+
+.profile-info {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.section {
+    margin-bottom: 2px;
+    text-align: center;
+}
+
+.section h2 {
+    font-size: 13pt;
+    margin: 2px 0;
+    font-weight: bold;
+}
+
+.section p {
+    margin: 0;
+    font-size: 10pt;
+}
+
+.section-about p {
+    text-align: justify;
+}
+
+.section-skills p {
+    font-weight: bold;
+}
+
+.contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1px 10px;
+    padding: 5px 20px 0 20px;
+    font-size: 10pt;
+    text-align: center;
+}
+
+.contact-item a {
+    text-decoration: none;
+    color: #444;
+}
+
+/* Experience Summary Grid */
+.summary-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px 30px;
+    padding: 0;
+    width: 100%;
+}
+
+.summary-col {
+    display: flex;
+    flex-direction: column;
+}
+
+.summary-section h3 {
+    font-size: 13pt;
+    margin: 8px 0 2px 0;
+    text-align: center;
+    font-weight: bold;
+}
+
+.summary-section p {
+    margin: 0;
+    font-size: 10pt;
+    text-align: center;
+}
+
+/* Recommendations */
+.recommendations-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px 25px;
+    padding: 0;
+}
+
+.recommendation-item {
+    display: flex;
+    gap: 6px;
+}
+
+.quote-mark {
+    color: #8B4513;
+    font-size: 20pt;
+    /* Slightly smaller */
+    line-height: 1;
+    margin-top: -3px;
+}
+
+.recommendation-text {
+    font-style: italic;
+    text-align: left;
+    font-size: 9.5pt;
+    margin: 0;
+    line-height: 1.15;
+}
+
+.author-info {
+    display: block;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 9pt;
+    color: #444;
+    text-align: right;
+    margin-top: 2px;
+}
+
+/* Detailed Experience - The 2nd Main Content */
+.exp-details {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10mm;
+    padding: 0;
+    margin: 0;
+}
+
+.exp-col {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* Spreads content to fill the full container height */
+}
+
+/* Allow sub-sections to also spread internal content to align bottom lines */
+.exp-sub-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.exp-sub-section h4 {
+    font-size: 12pt;
+    font-weight: bold;
+    margin: 5px 0 2px 0;
+    text-align: center;
+}
+
+.exp-sub-section p,
+.achievement-item {
+    font-size: 10pt;
+    margin: 1px 0;
+    text-align: justify;
+}
+
+.achievement-item {
+    margin-bottom: 2px;
+}
+
+.achievement-title {
+    font-weight: bold;
+}
+
+.main-title,
+.exp-title {
+    font-size: 17pt;
+    font-weight: bold;
+    text-align: center;
+    margin: 15px 0 5px 0;
+    width: 100%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+@media print {
+    body {
+        padding: 0;
+        background: none;
+    }
+
+    .page {
+        box-shadow: none;
+        border: none;
+        margin: 0;
+        width: 100%;
+        padding: 10mm 12mm;
+    }
+}
