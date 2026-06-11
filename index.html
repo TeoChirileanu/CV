@@ -291,6 +291,7 @@ header {
                 </div>
                 <div class="summary-section">
                     <h3>Financial Services</h3>
+                    <p>.NET Developer with Terraform and Azure @ RTGS.global (UK)</p>
                     <p>.NET Developer with VB and Azure @ ING Bank (RO)</p>
                     <p>.NET Developer with Blazor and Azure @ Amex (US)</p>
                     <p>.NET Developer with Angular and Azure @ Axa IM (FR)</p>
@@ -372,6 +373,53 @@ header {
         </div>
 
         <!-- Professional Experience -->
+        <h2 class="exp-title">.NET Developer @ RTGS.global (UK) : 03/26 - 06/26</h2>
+        <div class="exp-details">
+            <div class="exp-col">
+                <div class="exp-sub-section">
+                    <h4>Technical Environment</h4>
+                    <p class="text-center"><b>Languages:</b> C#, SQL, HCL (Terraform), PowerShell, Yaml</p>
+                    <p class="text-center"><b>Frameworks:</b> .NET 8, Azure Durable Functions, Azure Service Bus, Azure
+                        Event Grid, Polly, Dapper, ISO 20022</p>
+                    <p class="text-center"><b>Tools:</b> Azure DevOps, Terraform, Azure SQL, WireMock.Net, xUnit,
+                        Honeycomb (OpenTelemetry), Application Insights</p>
+                    <h4>Project Description</h4>
+                    <p><b>Business:</b> RTGS.global is a real-time gross settlement network for OTC foreign exchange
+                        settlement and cross-border payments between financial institutions, providing atomic
+                        payment-versus-payment settlement across currencies, built entirely on Azure.</p>
+                    <p><b>Technical:</b> Worked in the Platform Core team owning the Settlement, Funds, Account
+                        Reporting, and Core Audit domains. Event-driven microservices built on Azure Durable Functions
+                        with an HTTP-in/events-out architecture: Service Bus for asynchronous commands, Event Grid
+                        (CloudEvents) for domain events, ISO 20022 (pacs.008/pacs.009) messaging, Azure SQL with
+                        Managed Identity, and Terraform-managed infrastructure.</p>
+                </div>
+            </div>
+            <div class="exp-col">
+                <div class="exp-sub-section">
+                    <h4>Key Achievements</h4>
+                    <div class="achievement-item"><b>Operations Audit Trail:</b> Designed and delivered immutable,
+                        fail-closed auditing of operational actions across the Settlement, Account Reporting, and Funds
+                        domains through a new central audit service, using durable Service Bus delivery with
+                        dead-lettering and 7-year retention for regulatory compliance.</div>
+                    <div class="achievement-item"><b>Settlement Reliability:</b> Hardened Durable Functions settlement
+                        orchestrations by adding activity-level retries for transient SQL errors, resolving deadlocks,
+                        tuning Polly v8 timeout/retry policies for funds-adapter calls, and fixing missing
+                        payment-rejection events in the v2 settlement flows.</div>
+                    <div class="achievement-item"><b>Digital Currency Support:</b> Extended core domains and E2E test
+                        suites to support non-ISO currency codes of up to 10 characters, enabling settlement of crypto
+                        and other digital assets alongside fiat currencies.</div>
+                    <div class="achievement-item"><b>Platform Modernization:</b> Migrated core domains and the admin
+                        portal to Terraform 1.15 and drove major dependency upgrades across four repositories,
+                        including SqlClient 7 with Entra ID authentication, Azure Functions Worker, and WireMock v2.
+                    </div>
+                    <div class="achievement-item"><b>Operational Tooling:</b> Built cross-environment dead-letter-queue
+                        inspection and clearing pipelines, extended the operations API with cross-account transaction
+                        queries and diagnostic details, and introduced domain-level OpenTelemetry tracing datasets.
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <h2 class="exp-title">.NET Developer @ Itineris (BE) : 11/22 - 02/26</h2>
         <div class="exp-details">
             <div class="exp-col">
