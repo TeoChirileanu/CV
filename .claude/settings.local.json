@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(py -c \":*)",
-      "Bash(py update_cv.py)"
-    ]
-  }
-}
