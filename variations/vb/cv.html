@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Teodor Chirileanu - .NET / VB Migration</title>
+    <style>
+:root {
+    --heading-font: 'Arial', sans-serif;
+    --body-font: 'Times New Roman', Times, serif;
+    --text-color: #000;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    font-family: var(--body-font);
+    color: var(--text-color);
+    line-height: 1.12;
+    font-size: 10pt;
+}
+
+.page {
+    width: 210mm;
+    min-height: 297mm;
+    padding: 9mm 12mm;
+    margin: 10px auto;
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: var(--heading-font);
+    font-size: 17pt;
+    margin: 0 0 1mm 0;
+    text-align: center;
+}
+
+.headline {
+    font-family: var(--heading-font);
+    font-size: 10.5pt;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 0 1mm 0;
+}
+
+.contact {
+    text-align: center;
+    font-size: 9.5pt;
+    margin-bottom: 2.5mm;
+}
+
+.contact a {
+    color: #444;
+    text-decoration: none;
+}
+
+h2 {
+    font-family: var(--heading-font);
+    font-size: 11.5pt;
+    margin: 2mm 0 0.8mm 0;
+    border-bottom: 1px solid #999;
+    padding-bottom: 0.5mm;
+}
+
+.summary {
+    text-align: justify;
+    margin: 0;
+}
+
+.skills p {
+    margin: 0 0 0.8mm 0;
+}
+
+.skills b {
+    font-family: var(--heading-font);
+    font-size: 9pt;
+}
+
+.job {
+    margin-bottom: 1.4mm;
+}
+
+.job-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-family: var(--heading-font);
+    font-size: 10pt;
+}
+
+.job-head .period {
+    font-weight: normal;
+    font-size: 9.5pt;
+    white-space: nowrap;
+}
+
+.job ul {
+    margin: 0.5mm 0 0 0;
+    padding-left: 5mm;
+}
+
+.job li {
+    text-align: justify;
+    margin-bottom: 0.3mm;
+}
+
+.footer-line {
+    margin: 0;
+    font-size: 9.5pt;
+}
+
+@page {
+    size: A4;
+    margin: 9mm 12mm;
+}
+
+@media print {
+    body {
+        padding: 0;
+        background: none;
+    }
+
+    .page {
+        box-shadow: none;
+        border: none;
+        margin: 0;
+        width: 100%;
+        min-height: 0;
+        padding: 0;
+    }
+}
+    </style>
+</head>
+
+<body>
+    <div class="page">
+        <h1>Teodor Chirileanu</h1>
+        <p class="headline">.NET Engineer — VB6/VB.NET → C# WPF Migration<br>
+            10 yrs C#/.NET · 3 yrs Visual Basic · 3 yrs WPF · AI-Heavy (Claude Code 12+ mo daily · Codex · Cursor)</p>
+        <p class="contact">
+            <a href="mailto:teodorchirileanu@gmail.com">teodorchirileanu@gmail.com</a> |
+            +40 748 333 619 |
+            <a href="https://github.com/TeoChirileanu">github.com/TeoChirileanu</a> |
+            <a href="https://www.linkedin.com/in/teoch/">linkedin.com/in/teoch</a> |
+            Romania (remote)
+        </p>
+
+        <h2>Summary</h2>
+        <p class="summary">Ten years of C#/.NET, three of Visual Basic (VB6/VB.NET), three of WPF — spent largely on
+            legacy modernisation: VB/C# payment products at American Express, a VB/C# n-tier banking runtime at ING,
+            stored-procedure-to-C# rewrites, WebForms and WPF-monolith migrations, and a code-generation pipeline at
+            Enedis that translated functional specifications directly into C#, years before LLMs made automated
+            migration mainstream. Claude Code has been my primary daily dev tool for 12+ months (Codex and Cursor
+            familiar): AI does the heavy refactoring, while the test harnesses and safety protocols I build first
+            guarantee behaviour is preserved. Legacy puzzles are the part of the job I actually enjoy.</p>
+
+        <h2>Skills</h2>
+        <div class="skills">
+            <p><b>Core:</b> C# / .NET (10 yrs, .NET Framework → .NET 8) · Visual Basic VB6/VB.NET (3 yrs) · WPF + XAML,
+                GoXam (3 yrs) · WCF · Blazor · n-tier legacy</p>
+            <p><b>AI-assisted engineering:</b> Claude Code (primary daily tool, 12+ months) · Codex · Cursor —
+                AI-automated refactoring and framework migration</p>
+            <p><b>Testing &amp; safety:</b> workflow/integration test harnesses · Playwright (built from scratch) · UFT
+                One · TDD · health checks · CI/CD (TeamCity)</p>
+            <p><b>Platform:</b> Azure (Durable Functions, Service Bus, Event Grid) · SQL Server · Redis · Terraform ·
+                Bicep</p>
+        </div>
+
+        <h2>Selected Experience</h2>
+        <div class="job">
+            <div class="job-head"><span>.NET Engineer — Settlement Platform · RTGS.global (UK)</span><span
+                    class="period">03/2026 – 06/2026</span></div>
+            <ul>
+                <li>Built workflow/integration test harnesses, an ops audit trail and SQL retry hardening on a .NET 8
+                    real-time settlement platform (Azure Durable Functions, Service Bus, Event Grid, Terraform).</li>
+                <li>Daily AI-heavy workflow in VS Code + Claude Code as primary dev tooling — safety net built first,
+                    making AI-accelerated change safe on money-moving code.</li>
+            </ul>
+        </div>
+        <div class="job">
+            <div class="job-head"><span>.NET Developer — Whale-Research Field Platform · Project CETI (US)</span><span
+                    class="period">10/2025 – 01/2026</span></div>
+            <ul>
+                <li>Took ownership of a legacy Flutter + .NET 10 application used by whale-research field scientists in
+                    the Caribbean — iPad data capture with multi-device sync, admin portal and reporting backend on AWS
+                    (ECS/EKS, S3).</li>
+                <li>AI-heavy delivery: Cursor across the Flutter codebase, Rider on the .NET services — shipped sync
+                    rework, canonical field codes, selective export and data-integrity safeguards in fixed-scope
+                    sprints.</li>
+            </ul>
+        </div>
+        <div class="job">
+            <div class="job-head"><span>.NET Developer — Payments · EPS (LT)</span><span class="period">02/2025 –
+                    06/2025</span></div>
+            <ul>
+                <li>Consolidated client databases and moved business logic out of stored procedures into maintainable,
+                    testable C# on a live payments system — textbook legacy modernisation.</li>
+                <li>AI-assisted workflow in JetBrains Rider + Junie — agent-driven refactoring and test
+                    scaffolding.</li>
+            </ul>
+        </div>
+        <div class="job">
+            <div class="job-head"><span>.NET / Visual Basic Engineer — BPM Core Platform · ING Bank (RO)</span><span
+                    class="period">04/2023 – 09/2024</span></div>
+            <ul>
+                <li>Maintained the BPM Core runtime platform written in C# and Visual Basic (WCF, n-tier legacy); led
+                    the .NET 8 upgrade across enterprise applications.</li>
+                <li>Made legacy services stateless via Redis-backed sessions and added health checks to de-risk
+                    deployments.</li>
+                <li>Day-to-day AI-assisted development in Visual Studio + GitHub Copilot across the C#/VB legacy
+                    estate.</li>
+            </ul>
+        </div>
+        <div class="job">
+            <div class="job-head"><span>Software Engineer — Legacy Payments · American Express (US)</span><span
+                    class="period">03/2023 – 07/2024</span></div>
+            <ul>
+                <li>Modernised Visual Basic + C# legacy payment products (WebFASTest, vATM); extracted and documented
+                    EMV chip logic buried in legacy code.</li>
+                <li>Built a Playwright UI test framework from scratch (no QA team) as the regression safety net;
+                    shipped greenfield NGS module in Blazor.</li>
+            </ul>
+        </div>
+        <div class="job">
+            <div class="job-head"><span>Software Engineer · BeeNear (RO)</span><span class="period">05/2021 –
+                    05/2022</span></div>
+            <ul>
+                <li>Refactored a monolithic WPF desktop app into microservices (7x faster login); migrated a WebForms
+                    accounting application to Angular 12.</li>
+            </ul>
+        </div>
+        <div class="job">
+            <div class="job-head"><span>.NET / WPF Developer — French Electrical Grid · Enedis (FR)</span><span
+                    class="period">02/2019 – 02/2021</span></div>
+            <ul>
+                <li>Built WPF desktop software (GoXam workflow GUI) for France's electrical grid; reworked the n-tier
+                    base layer and supervisor module.</li>
+                <li>Designed a code-generation pipeline translating functional specifications directly into C# —
+                    automated code-migration tooling, pre-LLM.</li>
+            </ul>
+        </div>
+
+        <h2>Also Worked At</h2>
+        <p class="footer-line">Itineris (BE) 11/2022 – 02/2026 · Deloitte (US) · EUAA (MT) · Lykke (CH) · Axa IM (FR) ·
+            GlobalLogic (US) · Klips (IL) · Societe Generale (FR) · Tricentis (AT)</p>
+
+        <h2>Certifications &amp; Education</h2>
+        <p class="footer-line">Microsoft DevOps Engineer Expert · AWS DevOps Engineer Professional · GCP Professional
+            Cloud Developer | BSc Computer Science, UAIC</p>
+    </div>
+</body>
+
+</html>

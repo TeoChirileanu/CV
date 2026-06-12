@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Teodor Chirileanu — CV</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Marcellus&family=Karla:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --navy:#0c2340;
+  --navy-soft:#3c4a5e;
+  --ink:#27313e;
+  --gold:#a9852e;
+  --gold-bright:#c29b45;
+  --hair:rgba(169,133,46,.5);
+  --hair-faint:rgba(169,133,46,.28);
+  --paper:#fdfbf4;
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+@page{size:A4;margin:0;}
+html{ -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+body{
+  background:#e7e2d8;
+  font-family:'Karla',sans-serif;
+  color:var(--ink);
+  display:flex;
+  justify-content:center;
+  align-items:flex-start;
+  padding:28px 16px;
+}
+.page{
+  width:210mm;
+  height:297mm;
+  background:
+    radial-gradient(ellipse 140% 90% at 50% -10%, rgba(12,35,64,.035), transparent 60%),
+    var(--paper);
+  box-shadow:0 24px 70px rgba(12,25,45,.22);
+  padding:13mm 14mm 10mm;
+  position:relative;
+  overflow:hidden;
+}
+.page::before{ /* navy crest band */
+  content:"";position:absolute;top:0;left:0;right:0;height:2.4mm;
+  background:var(--navy);
+  border-bottom:.7pt solid var(--gold-bright);
+}
+.page::after{ /* whisper gold baseline */
+  content:"";position:absolute;bottom:0;left:0;right:0;height:1mm;
+  border-top:.5pt solid var(--hair-faint);
+}
+a{color:inherit;text-decoration:none;}
+
+/* ---------- header ---------- */
+header{text-align:center;margin-top:2mm;}
+h1{
+  font-family:'Cormorant Garamond',serif;
+  font-weight:600;
+  font-size:29pt;
+  line-height:1.05;
+  letter-spacing:.025em;
+  color:var(--navy);
+}
+.title{
+  margin-top:2.4mm;
+  font-size:8pt;font-weight:700;
+  text-transform:uppercase;letter-spacing:.27em;
+  color:var(--navy);
+  display:flex;align-items:center;justify-content:center;gap:3.5mm;
+}
+.title .dia{color:var(--gold);font-size:5.5pt;letter-spacing:0;}
+.stats{
+  margin-top:2mm;
+  font-size:6.9pt;font-weight:600;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--gold);
+}
+.contact{
+  margin-top:1.6mm;
+  font-size:6.9pt;font-weight:500;letter-spacing:.05em;
+  color:var(--navy-soft);
+}
+.contact b{color:var(--gold);font-weight:400;padding:0 1mm;}
+
+/* ---------- engagements strip ---------- */
+.rule-label{
+  display:flex;align-items:center;gap:3.5mm;
+  margin:5.6mm 0 0;
+  font-size:6.5pt;font-weight:700;text-transform:uppercase;letter-spacing:.34em;
+  color:var(--gold);
+}
+.rule-label::before,.rule-label::after{content:"";flex:1;border-top:.5pt solid var(--hair);}
+.brand-grid{
+  margin-top:2.6mm;
+  display:grid;grid-template-columns:repeat(5,1fr);
+  border-top:.6pt solid var(--hair);border-bottom:.6pt solid var(--hair);
+}
+.brand-grid span{
+  font-family:'Marcellus',serif;
+  font-size:8pt;letter-spacing:.05em;
+  color:var(--navy);
+  text-align:center;white-space:nowrap;
+  padding:2.9mm .5mm;
+  border-right:.5pt solid var(--hair-faint);
+}
+.brand-grid span:nth-child(5n){border-right:none;}
+.brand-grid span:nth-child(n+6){border-top:.5pt solid var(--hair-faint);}
+.brand-grid .long{font-size:7.4pt;letter-spacing:.02em;}
+
+/* ---------- body ---------- */
+.body-grid{
+  margin-top:5mm;
+  display:grid;grid-template-columns:56mm 1fr;column-gap:7mm;
+}
+.side-label,.main-label{
+  display:flex;align-items:center;gap:2.6mm;
+  font-size:6.4pt;font-weight:700;text-transform:uppercase;letter-spacing:.3em;
+  color:var(--gold);
+  margin-bottom:2.6mm;
+}
+.side-label::after,.main-label::after{content:"";flex:1;border-top:.5pt solid var(--hair-faint);}
+aside section{margin-bottom:6mm;}
+aside p,aside li{font-size:7.5pt;line-height:1.52;color:var(--ink);}
+.skill{margin-bottom:2.6mm;}
+.skill .k{
+  display:block;font-size:6.2pt;font-weight:700;text-transform:uppercase;
+  letter-spacing:.16em;color:var(--navy);margin-bottom:.5mm;
+}
+.skill .v{font-size:7.3pt;line-height:1.48;color:var(--ink);}
+.credlist{list-style:none;}
+.credlist li{margin-bottom:1.1mm;padding-left:3.4mm;position:relative;}
+.credlist li::before{content:"◆";position:absolute;left:0;top:.1mm;font-size:4.6pt;color:var(--gold);}
+.further{font-size:7.2pt;line-height:1.55;color:var(--navy-soft);}
+.further em{font-style:normal;font-family:'Marcellus',serif;color:var(--navy);}
+
+/* ---------- experience ---------- */
+main{border-left:.5pt solid var(--hair-faint);padding-left:7mm;}
+.xp{margin-bottom:4mm;}
+.xp-head{display:flex;justify-content:space-between;align-items:baseline;gap:3mm;}
+.co{
+  font-family:'Marcellus',serif;
+  font-size:12pt;letter-spacing:.045em;text-transform:uppercase;
+  color:var(--navy);white-space:nowrap;
+}
+.co i{font-style:normal;font-size:7.5pt;letter-spacing:.1em;color:var(--gold);}
+.dates{font-size:6.4pt;font-weight:600;letter-spacing:.14em;color:var(--gold);white-space:nowrap;}
+.role{
+  margin:.9mm 0 1.2mm;
+  font-size:6.6pt;font-weight:700;text-transform:uppercase;letter-spacing:.2em;
+  color:var(--navy-soft);
+}
+.xp ul{list-style:none;}
+.xp li{
+  font-size:7.5pt;line-height:1.4;color:var(--ink);
+  padding-left:3.6mm;position:relative;margin-bottom:.7mm;
+}
+.xp li::before{content:"◆";position:absolute;left:0;top:.2mm;font-size:4.6pt;color:var(--gold);}
+
+/* ---------- print ---------- */
+@media print{
+  body{background:none;padding:0;display:block;}
+  .page{box-shadow:none;margin:0;}
+}
+</style>
+</head>
+<body>
+<div class="page">
+
+  <header>
+    <h1>Teodor Chirileanu</h1>
+    <div class="title"><span class="dia">◆</span>.NET Engineer — VB6 / VB.NET → C# WPF Migration<span class="dia">◆</span></div>
+    <div class="stats">10 yrs C#/.NET&ensp;·&ensp;3 yrs Visual Basic&ensp;·&ensp;3 yrs WPF&ensp;·&ensp;AI-Heavy — Claude Code 12+ mo daily · Codex · Cursor</div>
+    <div class="contact"><a href="mailto:teodorchirileanu@gmail.com">teodorchirileanu@gmail.com</a><b>·</b>+40 748 333 619<b>·</b><a href="https://github.com/TeoChirileanu">github.com/TeoChirileanu</a><b>·</b><a href="https://linkedin.com/in/teoch">linkedin.com/in/teoch</a><b>·</b>Romania (remote)</div>
+  </header>
+
+  <div class="rule-label">Selected Engagements</div>
+  <div class="brand-grid">
+    <span>American Express</span>
+    <span>ING Bank</span>
+    <span>Deloitte</span>
+    <span class="long">Société Générale</span>
+    <span>AXA IM</span>
+    <span>RTGS.global</span>
+    <span>Enedis</span>
+    <span>Tricentis</span>
+    <span>GlobalLogic</span>
+    <span>Lykke</span>
+  </div>
+
+  <div class="body-grid">
+    <aside>
+      <section>
+        <div class="side-label">Profile</div>
+        <p>Ten years of C#/.NET, three of Visual Basic, three of WPF — spent largely on legacy modernisation: VB/C# payment products at American Express, a VB/C# n-tier banking runtime at ING, stored-procedure-to-C# rewrites, WebForms and WPF-monolith migrations, and a pre-LLM code-generation pipeline at Enedis translating functional specifications directly into C#. Claude Code has been my primary daily tool for 12+ months: AI does the heavy refactoring, while the test harnesses and safety protocols I build first guarantee behaviour is preserved. Legacy puzzles are the part of the job I actually enjoy.</p>
+      </section>
+      <section>
+        <div class="side-label">Capabilities</div>
+        <div class="skill"><span class="k">Core</span><span class="v">C# / .NET (10 yrs, Framework → .NET 8) · VB6/VB.NET · WPF + XAML, GoXam · WCF · Blazor · n-tier legacy</span></div>
+        <div class="skill"><span class="k">AI-Assisted Engineering</span><span class="v">Claude Code (primary daily tool, 12+ mo) · Codex · Cursor · GitHub Copilot · JetBrains Junie — AI-automated refactoring &amp; framework migration</span></div>
+        <div class="skill"><span class="k">Testing &amp; Safety</span><span class="v">Workflow/integration harnesses · Playwright (from scratch) · UFT One · TDD · health checks · CI/CD</span></div>
+        <div class="skill"><span class="k">Platform</span><span class="v">Azure (Durable Functions, Service Bus, Event Grid) · SQL Server · Redis · Terraform · Bicep</span></div>
+      </section>
+      <section>
+        <div class="side-label">Credentials</div>
+        <ul class="credlist">
+          <li>Microsoft DevOps Engineer Expert</li>
+          <li>AWS DevOps Engineer Professional</li>
+          <li>GCP Professional Cloud Developer</li>
+          <li>BSc Computer Science, UAIC</li>
+        </ul>
+      </section>
+      <section>
+        <div class="side-label">Further Engagements</div>
+        <p class="further"><em>Itineris</em> (BE) 11/2022–02/2026 · <em>Deloitte</em> (US) · <em>EUAA</em> (MT) · <em>Lykke</em> (CH) · <em>AXA IM</em> (FR) · <em>GlobalLogic</em> (US) · <em>Klips</em> (IL) · <em>Société Générale</em> (FR) · <em>Tricentis</em> (AT)</p>
+      </section>
+    </aside>
+
+    <main>
+      <div class="main-label">Experience</div>
+
+      <div class="xp">
+        <div class="xp-head"><div class="co">RTGS.global <i>UK</i></div><div class="dates">03/2026 – 06/2026</div></div>
+        <div class="role">.NET Engineer · Settlement Platform</div>
+        <ul>
+          <li>Workflow/integration test harnesses, ops audit trail and SQL retry hardening on a .NET 8 real-time settlement platform (Azure Durable Functions, Service Bus, Event Grid, Terraform).</li>
+          <li>Daily AI-heavy workflow in VS Code + Claude Code as primary dev tooling — safety net built first, making AI-accelerated change safe on money-moving code.</li>
+        </ul>
+      </div>
+
+      <div class="xp">
+        <div class="xp-head"><div class="co">Project CETI <i>US</i></div><div class="dates">10/2025 – 01/2026</div></div>
+        <div class="role">.NET Developer · Whale-Research Field Platform</div>
+        <ul>
+          <li>Owned a legacy Flutter + .NET 10 app for field scientists logging whale observations in the Caribbean — sync rework, canonical field codes, selective export, data-integrity safeguards (AWS ECS/EKS, S3).</li>
+          <li>AI-heavy delivery end-to-end — Cursor on the Flutter codebase, Rider on the .NET services, fixed-scope sprints.</li>
+        </ul>
+      </div>
+
+      <div class="xp">
+        <div class="xp-head"><div class="co">EPS <i>LT</i></div><div class="dates">02/2025 – 06/2025</div></div>
+        <div class="role">.NET Developer · Payments</div>
+        <ul>
+          <li>Consolidated client databases and moved business logic out of stored procedures into maintainable, testable C# on a live payments system.</li>
+          <li>AI-assisted workflow in JetBrains Rider + Junie — agent-driven refactoring and test scaffolding on the stored-procedure-to-C# rewrite.</li>
+        </ul>
+      </div>
+
+      <div class="xp">
+        <div class="xp-head"><div class="co">ING Bank <i>RO</i></div><div class="dates">04/2023 – 09/2024</div></div>
+        <div class="role">.NET / Visual Basic Engineer · BPM Core Platform</div>
+        <ul>
+          <li>Maintained the BPM Core runtime in C# and Visual Basic (WCF, n-tier legacy); led the .NET 8 upgrade across enterprise applications.</li>
+          <li>Made legacy services stateless via Redis-backed sessions; health checks to de-risk deployments.</li>
+          <li>Day-to-day AI-assisted development in Visual Studio + GitHub Copilot across the C#/VB legacy estate.</li>
+        </ul>
+      </div>
+
+      <div class="xp">
+        <div class="xp-head"><div class="co">American Express <i>US</i></div><div class="dates">03/2023 – 07/2024</div></div>
+        <div class="role">Software Engineer · Legacy Payments</div>
+        <ul>
+          <li>Modernised Visual Basic + C# legacy payment products (WebFASTest, vATM); extracted and documented EMV chip logic buried in legacy code.</li>
+          <li>Built a Playwright UI test framework from scratch (no QA team); shipped greenfield NGS module in Blazor.</li>
+        </ul>
+      </div>
+
+      <div class="xp">
+        <div class="xp-head"><div class="co">BeeNear <i>RO</i></div><div class="dates">05/2021 – 05/2022</div></div>
+        <div class="role">Software Engineer</div>
+        <ul>
+          <li>Refactored a monolithic WPF desktop app into microservices (7× faster login); migrated a WebForms accounting application to Angular 12.</li>
+        </ul>
+      </div>
+
+      <div class="xp">
+        <div class="xp-head"><div class="co">Enedis <i>FR</i></div><div class="dates">02/2019 – 02/2021</div></div>
+        <div class="role">.NET / WPF Developer · French Electrical Grid</div>
+        <ul>
+          <li>Built WPF desktop software (GoXam workflow GUI) for France's electrical grid; reworked the n-tier base layer.</li>
+          <li>Designed a code-generation pipeline translating functional specifications directly into C# — automated code-migration tooling, pre-LLM.</li>
+        </ul>
+      </div>
+    </main>
+  </div>
+
+</div>
+</body>
+</html>
