@@ -398,25 +398,23 @@ p.section-skills {
             <div class="exp-col">
                 <div class="exp-sub-section">
                     <h4>Key Achievements</h4>
-                    <div class="achievement-item"><b>Operations Audit Trail:</b> Designed and delivered immutable,
-                        fail-closed auditing of operational actions across the Settlement, Account Reporting, and Funds
-                        domains through a new central audit service, using durable Service Bus delivery with
-                        dead-lettering and 7-year retention for regulatory compliance.</div>
-                    <div class="achievement-item"><b>Settlement Reliability:</b> Hardened Durable Functions settlement
-                        orchestrations by adding activity-level retries for transient SQL errors, resolving deadlocks,
-                        tuning Polly v8 timeout/retry policies for funds-adapter calls, and fixing missing
-                        payment-rejection events in the v2 settlement flows.</div>
-                    <div class="achievement-item"><b>Digital Currency Support:</b> Extended core domains and E2E test
-                        suites to support non-ISO currency codes of up to 10 characters, enabling settlement of crypto
-                        and other digital assets alongside fiat currencies.</div>
+                    <div class="achievement-item"><b>Operations Audit Trail:</b> Delivered immutable, fail-closed
+                        auditing of operational actions across the Settlement, Account Reporting, and Funds domains via
+                        a new central audit service, using durable Service Bus delivery with dead-lettering and 7-year
+                        regulatory retention.</div>
+                    <div class="achievement-item"><b>Settlement Reliability &amp; Safety:</b> Hardened Durable Functions
+                        orchestrations with activity-level SQL retries, deadlock fixes, tuned Polly v8 timeout/retry
+                        policies for funds-adapter calls, recovered missing v2 payment-rejection events, and added
+                        divergence detection that blocks settlement and alerts ops on conflicting adapter state.</div>
+                    <div class="achievement-item"><b>Digital Currency Support:</b> Extended core domains and E2E suites
+                        to support non-ISO currency codes up to 10 characters, enabling settlement of crypto and other
+                        digital assets alongside fiat.</div>
                     <div class="achievement-item"><b>Platform Modernization:</b> Migrated core domains and the admin
-                        portal to Terraform 1.15 and drove major dependency upgrades across four repositories,
-                        including SqlClient 7 with Entra ID authentication, Azure Functions Worker, and WireMock v2.
-                    </div>
+                        portal to Terraform 1.15 and drove major dependency upgrades across four repos — SqlClient 7
+                        with Entra ID auth, Azure Functions Worker, and WireMock v2.</div>
                     <div class="achievement-item"><b>Operational Tooling:</b> Built cross-environment dead-letter-queue
-                        inspection and clearing pipelines, extended the operations API with cross-account transaction
-                        queries and diagnostic details, and introduced domain-level OpenTelemetry tracing datasets.
-                    </div>
+                        inspection/clearing pipelines, extended the operations API with cross-account transaction
+                        queries and diagnostics, and added domain-level OpenTelemetry tracing datasets.</div>
                 </div>
             </div>
         </div>
